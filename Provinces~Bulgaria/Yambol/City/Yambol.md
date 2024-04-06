@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::42.48] 
 [name::Yambol] 
 State ::  
-Country :: [[United_Kingdom]]  
+Country :: [[Bulgaria]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -32,10 +32,10 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/United_Kingdom/City/Yambol|Yambol]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/United_Kingdom/City/Yambol.public|Yambol.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/United_Kingdom/City/Yambol.internal|Yambol.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/United_Kingdom/City/Yambol.protect|Yambol.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/United_Kingdom/City/Yambol.private|Yambol.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/United_Kingdom/City/Yambol.personal|Yambol.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/United_Kingdom/City/Yambol.secret|Yambol.secret]] 
+- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/City/Yambol|Yambol]] 
+- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/City/Yambol.public|Yambol.public]] 
+- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/City/Yambol.internal|Yambol.internal]] 
+- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/City/Yambol.protect|Yambol.protect]] 
+- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/City/Yambol.private|Yambol.private]] 
+- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/City/Yambol.personal|Yambol.personal]] 
+- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/City/Yambol.secret|Yambol.secret]] 
