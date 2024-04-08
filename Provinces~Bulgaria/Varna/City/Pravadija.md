@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.45] 
-[geo-lat::43.18] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::27.45] 
+[has_place_latitude::43.18] 
 [name::Pravadija] 
 State ::  
 Country :: [[Bulgaria]]  

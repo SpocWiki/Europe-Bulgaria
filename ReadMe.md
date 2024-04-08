@@ -127,8 +127,10 @@ Capital :: [[./Bulgaria/Counties/Sofia]]
 ![[Flag_of_Bulgaria.svg|350]] 
 [Alcohol-l::12.4] 
 [Language-Id::] 
-[geo-lon::25.3029] 
-[geo-lat::42.9342] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.3029] 
+[has_place_latitude::42.9342] 
 
 
 

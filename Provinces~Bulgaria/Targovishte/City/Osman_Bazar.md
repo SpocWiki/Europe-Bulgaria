@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.42] 
-[geo-lat::43.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::26.42] 
+[has_place_latitude::43.1] 
 [name::Osman Bazar] 
 State ::  
 Country :: [[Bulgaria]]  

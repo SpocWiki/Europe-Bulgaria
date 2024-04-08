@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::27.3] 
-[geo-lat::42.7] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::27.3] 
+[has_place_latitude::42.7] 
 [name::Aidos] 
 State ::  
 Country :: [[Bulgaria]]  

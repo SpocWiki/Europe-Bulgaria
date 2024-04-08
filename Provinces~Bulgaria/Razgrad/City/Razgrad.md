@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.52] 
-[geo-lat::43.53] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::26.52] 
+[has_place_latitude::43.53] 
 [name::Razgrad] 
 State ::  
 Country :: [[Bulgaria]]  

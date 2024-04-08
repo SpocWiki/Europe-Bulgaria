@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.5] 
-[geo-lat::42.87] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.5] 
+[has_place_latitude::42.87] 
 [name::Travna] 
 State ::  
 Country :: [[Bulgaria]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.32] 
-[geo-lat::42.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.32] 
+[has_place_latitude::42.88] 
 [name::Gabrovo] 
 State ::  
 Country :: [[Bulgaria]]  

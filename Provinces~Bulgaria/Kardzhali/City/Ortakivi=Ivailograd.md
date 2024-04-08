@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.12] 
-[geo-lat::41.55] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::26.12] 
+[has_place_latitude::41.55] 
 [name::Ortakivi=Ivailograd] 
 State ::  
 Country :: [[Bulgaria]]  

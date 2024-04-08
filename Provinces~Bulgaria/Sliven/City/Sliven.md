@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::26.32] 
-[geo-lat::42.67] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::26.32] 
+[has_place_latitude::42.67] 
 [name::Sliven] 
 State ::  
 Country :: [[Bulgaria]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::23.97] 
-[geo-lat::43.73] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::23.97] 
+[has_place_latitude::43.73] 
 [name::Rahove] 
 State ::  
 Country :: [[Bulgaria]]  

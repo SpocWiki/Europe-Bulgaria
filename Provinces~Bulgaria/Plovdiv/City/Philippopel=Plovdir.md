@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::24.75] 
-[geo-lat::42.15] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.75] 
+[has_place_latitude::42.15] 
 [name::Philippopel=Plovdir] 
 State ::  
 Country :: [[Bulgaria]]  

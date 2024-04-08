@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.68] 
-[geo-lat::42.28] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.68] 
+[has_place_latitude::42.28] 
 [name::Kustendjil] 
 State ::  
 Country :: [[Bulgaria]]  

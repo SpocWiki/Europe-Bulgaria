@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::25.35] 
-[geo-lat::43.62] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.35] 
+[has_place_latitude::43.62] 
 [name::Sistovo=Swichtov] 
 State ::  
 Country :: [[Bulgaria]]  
