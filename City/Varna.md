@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Varna.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\CityVarna.public.md) 
+### [Varna](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/City/Varna.md) 
 
-### [Varna.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\CityVarna.internal.md) 
+### [Varna.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/City/Varna.public.md) 
 
-### [Varna.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\CityVarna.protect.md) 
+### [Varna.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/City/Varna.internal.md) 
 
-### [Varna.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\CityVarna.private.md) 
+### [Varna.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/City/Varna.protect.md) 
 
-### [Varna.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\CityVarna.personal.md) 
+### [Varna.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/City/Varna.private.md) 
 
-### [Varna.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\CityVarna.secret.md)
+### [Varna.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/City/Varna.personal.md) 
+
+### [Varna.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/City/Varna.secret.md)
 

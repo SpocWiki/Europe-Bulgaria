@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pravadija.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Varna\CityPravadija.public.md) 
+### [Pravadija](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna/City/Pravadija.md) 
 
-### [Pravadija.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Varna\CityPravadija.internal.md) 
+### [Pravadija.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna/City/Pravadija.public.md) 
 
-### [Pravadija.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Varna\CityPravadija.protect.md) 
+### [Pravadija.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna/City/Pravadija.internal.md) 
 
-### [Pravadija.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Varna\CityPravadija.private.md) 
+### [Pravadija.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna/City/Pravadija.protect.md) 
 
-### [Pravadija.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Varna\CityPravadija.personal.md) 
+### [Pravadija.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna/City/Pravadija.private.md) 
 
-### [Pravadija.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Varna\CityPravadija.secret.md)
+### [Pravadija.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna/City/Pravadija.personal.md) 
+
+### [Pravadija.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna/City/Pravadija.secret.md)
 

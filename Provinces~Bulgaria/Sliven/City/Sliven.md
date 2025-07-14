@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sliven.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Sliven\CitySliven.public.md) 
+### [Sliven](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sliven/City/Sliven.md) 
 
-### [Sliven.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Sliven\CitySliven.internal.md) 
+### [Sliven.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sliven/City/Sliven.public.md) 
 
-### [Sliven.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Sliven\CitySliven.protect.md) 
+### [Sliven.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sliven/City/Sliven.internal.md) 
 
-### [Sliven.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Sliven\CitySliven.private.md) 
+### [Sliven.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sliven/City/Sliven.protect.md) 
 
-### [Sliven.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Sliven\CitySliven.personal.md) 
+### [Sliven.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sliven/City/Sliven.private.md) 
 
-### [Sliven.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Sliven\CitySliven.secret.md)
+### [Sliven.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sliven/City/Sliven.personal.md) 
+
+### [Sliven.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sliven/City/Sliven.secret.md)
 

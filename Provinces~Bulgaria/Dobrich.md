@@ -41,15 +41,17 @@ markerFolder: ./Dobrich/
 
 ## Confidential Links & Embeds: 
 
-### [Dobrich.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaDobrich.public.md) 
+### [Dobrich](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich.md) 
 
-### [Dobrich.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaDobrich.internal.md) 
+### [Dobrich.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich.public.md) 
 
-### [Dobrich.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaDobrich.protect.md) 
+### [Dobrich.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich.internal.md) 
 
-### [Dobrich.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaDobrich.private.md) 
+### [Dobrich.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich.protect.md) 
 
-### [Dobrich.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaDobrich.personal.md) 
+### [Dobrich.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich.private.md) 
 
-### [Dobrich.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaDobrich.secret.md)
+### [Dobrich.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich.personal.md) 
+
+### [Dobrich.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich.secret.md)
 

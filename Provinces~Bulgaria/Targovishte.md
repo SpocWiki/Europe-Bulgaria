@@ -41,15 +41,17 @@ markerFolder: ./Targovishte/
 
 ## Confidential Links & Embeds: 
 
-### [Targovishte.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaTargovishte.public.md) 
+### [Targovishte](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Targovishte.md) 
 
-### [Targovishte.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaTargovishte.internal.md) 
+### [Targovishte.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Targovishte.public.md) 
 
-### [Targovishte.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaTargovishte.protect.md) 
+### [Targovishte.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Targovishte.internal.md) 
 
-### [Targovishte.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaTargovishte.private.md) 
+### [Targovishte.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Targovishte.protect.md) 
 
-### [Targovishte.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaTargovishte.personal.md) 
+### [Targovishte.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Targovishte.private.md) 
 
-### [Targovishte.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaTargovishte.secret.md)
+### [Targovishte.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Targovishte.personal.md) 
+
+### [Targovishte.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Targovishte.secret.md)
 

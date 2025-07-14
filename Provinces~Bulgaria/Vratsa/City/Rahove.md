@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rahove.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vratsa\CityRahove.public.md) 
+### [Rahove](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa/City/Rahove.md) 
 
-### [Rahove.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vratsa\CityRahove.internal.md) 
+### [Rahove.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa/City/Rahove.public.md) 
 
-### [Rahove.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vratsa\CityRahove.protect.md) 
+### [Rahove.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa/City/Rahove.internal.md) 
 
-### [Rahove.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vratsa\CityRahove.private.md) 
+### [Rahove.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa/City/Rahove.protect.md) 
 
-### [Rahove.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vratsa\CityRahove.personal.md) 
+### [Rahove.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa/City/Rahove.private.md) 
 
-### [Rahove.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vratsa\CityRahove.secret.md)
+### [Rahove.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa/City/Rahove.personal.md) 
+
+### [Rahove.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa/City/Rahove.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Haskovo/
 
 ## Confidential Links & Embeds: 
 
-### [Haskovo.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaHaskovo.public.md) 
+### [Haskovo](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Haskovo.md) 
 
-### [Haskovo.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaHaskovo.internal.md) 
+### [Haskovo.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Haskovo.public.md) 
 
-### [Haskovo.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaHaskovo.protect.md) 
+### [Haskovo.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Haskovo.internal.md) 
 
-### [Haskovo.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaHaskovo.private.md) 
+### [Haskovo.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Haskovo.protect.md) 
 
-### [Haskovo.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaHaskovo.personal.md) 
+### [Haskovo.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Haskovo.private.md) 
 
-### [Haskovo.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaHaskovo.secret.md)
+### [Haskovo.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Haskovo.personal.md) 
+
+### [Haskovo.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Haskovo.secret.md)
 

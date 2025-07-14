@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~East\BulgariaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~East\BulgariaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~East\BulgariaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~East\BulgariaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~East\BulgariaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~East\BulgariaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/License.secret.md)
 

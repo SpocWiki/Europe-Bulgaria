@@ -41,15 +41,17 @@ markerFolder: ./Pazardzhik/
 
 ## Confidential Links & Embeds: 
 
-### [Pazardzhik.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPazardzhik.public.md) 
+### [Pazardzhik](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pazardzhik.md) 
 
-### [Pazardzhik.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPazardzhik.internal.md) 
+### [Pazardzhik.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pazardzhik.public.md) 
 
-### [Pazardzhik.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPazardzhik.protect.md) 
+### [Pazardzhik.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pazardzhik.internal.md) 
 
-### [Pazardzhik.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPazardzhik.private.md) 
+### [Pazardzhik.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pazardzhik.protect.md) 
 
-### [Pazardzhik.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPazardzhik.personal.md) 
+### [Pazardzhik.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pazardzhik.private.md) 
 
-### [Pazardzhik.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPazardzhik.secret.md)
+### [Pazardzhik.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pazardzhik.personal.md) 
+
+### [Pazardzhik.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pazardzhik.secret.md)
 

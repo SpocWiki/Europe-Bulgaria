@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Etropol.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Sofia\CityEtropol.public.md) 
+### [Etropol](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sofia/City/Etropol.md) 
 
-### [Etropol.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Sofia\CityEtropol.internal.md) 
+### [Etropol.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sofia/City/Etropol.public.md) 
 
-### [Etropol.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Sofia\CityEtropol.protect.md) 
+### [Etropol.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sofia/City/Etropol.internal.md) 
 
-### [Etropol.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Sofia\CityEtropol.private.md) 
+### [Etropol.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sofia/City/Etropol.protect.md) 
 
-### [Etropol.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Sofia\CityEtropol.personal.md) 
+### [Etropol.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sofia/City/Etropol.private.md) 
 
-### [Etropol.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Sofia\CityEtropol.secret.md)
+### [Etropol.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sofia/City/Etropol.personal.md) 
+
+### [Etropol.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sofia/City/Etropol.secret.md)
 

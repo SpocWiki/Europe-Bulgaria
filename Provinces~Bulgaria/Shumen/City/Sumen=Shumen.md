@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sumen=Shumen.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Shumen\CitySumen=Shumen.public.md) 
+### [Sumen=Shumen](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.md) 
 
-### [Sumen=Shumen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Shumen\CitySumen=Shumen.internal.md) 
+### [Sumen=Shumen.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.public.md) 
 
-### [Sumen=Shumen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Shumen\CitySumen=Shumen.protect.md) 
+### [Sumen=Shumen.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.internal.md) 
 
-### [Sumen=Shumen.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Shumen\CitySumen=Shumen.private.md) 
+### [Sumen=Shumen.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.protect.md) 
 
-### [Sumen=Shumen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Shumen\CitySumen=Shumen.personal.md) 
+### [Sumen=Shumen.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.private.md) 
 
-### [Sumen=Shumen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Shumen\CitySumen=Shumen.secret.md)
+### [Sumen=Shumen.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.personal.md) 
+
+### [Sumen=Shumen.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.secret.md)
 

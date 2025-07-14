@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Travna.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Gabrovo\CityTravna.public.md) 
+### [Travna](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Gabrovo/City/Travna.md) 
 
-### [Travna.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Gabrovo\CityTravna.internal.md) 
+### [Travna.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Gabrovo/City/Travna.public.md) 
 
-### [Travna.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Gabrovo\CityTravna.protect.md) 
+### [Travna.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Gabrovo/City/Travna.internal.md) 
 
-### [Travna.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Gabrovo\CityTravna.private.md) 
+### [Travna.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Gabrovo/City/Travna.protect.md) 
 
-### [Travna.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Gabrovo\CityTravna.personal.md) 
+### [Travna.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Gabrovo/City/Travna.private.md) 
 
-### [Travna.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Gabrovo\CityTravna.secret.md)
+### [Travna.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Gabrovo/City/Travna.personal.md) 
+
+### [Travna.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Gabrovo/City/Travna.secret.md)
 

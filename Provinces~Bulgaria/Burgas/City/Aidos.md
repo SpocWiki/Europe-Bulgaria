@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aidos.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Burgas\CityAidos.public.md) 
+### [Aidos](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Burgas/City/Aidos.md) 
 
-### [Aidos.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Burgas\CityAidos.internal.md) 
+### [Aidos.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Burgas/City/Aidos.public.md) 
 
-### [Aidos.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Burgas\CityAidos.protect.md) 
+### [Aidos.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Burgas/City/Aidos.internal.md) 
 
-### [Aidos.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Burgas\CityAidos.private.md) 
+### [Aidos.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Burgas/City/Aidos.protect.md) 
 
-### [Aidos.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Burgas\CityAidos.personal.md) 
+### [Aidos.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Burgas/City/Aidos.private.md) 
 
-### [Aidos.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Burgas\CityAidos.secret.md)
+### [Aidos.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Burgas/City/Aidos.personal.md) 
+
+### [Aidos.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Burgas/City/Aidos.secret.md)
 

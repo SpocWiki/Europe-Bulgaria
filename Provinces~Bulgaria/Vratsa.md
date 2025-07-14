@@ -41,15 +41,17 @@ markerFolder: ./Vratsa/
 
 ## Confidential Links & Embeds: 
 
-### [Vratsa.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVratsa.public.md) 
+### [Vratsa](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa.md) 
 
-### [Vratsa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVratsa.internal.md) 
+### [Vratsa.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa.public.md) 
 
-### [Vratsa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVratsa.protect.md) 
+### [Vratsa.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa.internal.md) 
 
-### [Vratsa.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVratsa.private.md) 
+### [Vratsa.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa.protect.md) 
 
-### [Vratsa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVratsa.personal.md) 
+### [Vratsa.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa.private.md) 
 
-### [Vratsa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVratsa.secret.md)
+### [Vratsa.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa.personal.md) 
+
+### [Vratsa.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa.secret.md)
 

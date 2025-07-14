@@ -41,15 +41,17 @@ markerFolder: ./Varna/
 
 ## Confidential Links & Embeds: 
 
-### [Varna.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVarna.public.md) 
+### [Varna](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna.md) 
 
-### [Varna.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVarna.internal.md) 
+### [Varna.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna.public.md) 
 
-### [Varna.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVarna.protect.md) 
+### [Varna.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna.internal.md) 
 
-### [Varna.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVarna.private.md) 
+### [Varna.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna.protect.md) 
 
-### [Varna.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVarna.personal.md) 
+### [Varna.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna.private.md) 
 
-### [Varna.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVarna.secret.md)
+### [Varna.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna.personal.md) 
+
+### [Varna.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna.secret.md)
 

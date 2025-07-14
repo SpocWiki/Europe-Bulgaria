@@ -41,15 +41,17 @@ markerFolder: ./Lovech/
 
 ## Confidential Links & Embeds: 
 
-### [Lovech.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaLovech.public.md) 
+### [Lovech](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Lovech.md) 
 
-### [Lovech.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaLovech.internal.md) 
+### [Lovech.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Lovech.public.md) 
 
-### [Lovech.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaLovech.protect.md) 
+### [Lovech.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Lovech.internal.md) 
 
-### [Lovech.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaLovech.private.md) 
+### [Lovech.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Lovech.protect.md) 
 
-### [Lovech.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaLovech.personal.md) 
+### [Lovech.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Lovech.private.md) 
 
-### [Lovech.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaLovech.secret.md)
+### [Lovech.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Lovech.personal.md) 
+
+### [Lovech.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Lovech.secret.md)
 

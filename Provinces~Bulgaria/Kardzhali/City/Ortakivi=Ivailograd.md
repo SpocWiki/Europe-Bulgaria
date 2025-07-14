@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ortakivi=Ivailograd.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityOrtakivi=Ivailograd.public.md) 
+### [Ortakivi=Ivailograd](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kardzhali/City/Ortakivi=Ivailograd.md) 
 
-### [Ortakivi=Ivailograd.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityOrtakivi=Ivailograd.internal.md) 
+### [Ortakivi=Ivailograd.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kardzhali/City/Ortakivi=Ivailograd.public.md) 
 
-### [Ortakivi=Ivailograd.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityOrtakivi=Ivailograd.protect.md) 
+### [Ortakivi=Ivailograd.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kardzhali/City/Ortakivi=Ivailograd.internal.md) 
 
-### [Ortakivi=Ivailograd.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityOrtakivi=Ivailograd.private.md) 
+### [Ortakivi=Ivailograd.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kardzhali/City/Ortakivi=Ivailograd.protect.md) 
 
-### [Ortakivi=Ivailograd.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityOrtakivi=Ivailograd.personal.md) 
+### [Ortakivi=Ivailograd.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kardzhali/City/Ortakivi=Ivailograd.private.md) 
 
-### [Ortakivi=Ivailograd.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityOrtakivi=Ivailograd.secret.md)
+### [Ortakivi=Ivailograd.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kardzhali/City/Ortakivi=Ivailograd.personal.md) 
+
+### [Ortakivi=Ivailograd.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kardzhali/City/Ortakivi=Ivailograd.secret.md)
 

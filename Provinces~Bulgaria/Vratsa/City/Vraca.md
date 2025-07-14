@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vraca.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vratsa\CityVraca.public.md) 
+### [Vraca](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa/City/Vraca.md) 
 
-### [Vraca.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vratsa\CityVraca.internal.md) 
+### [Vraca.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa/City/Vraca.public.md) 
 
-### [Vraca.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vratsa\CityVraca.protect.md) 
+### [Vraca.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa/City/Vraca.internal.md) 
 
-### [Vraca.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vratsa\CityVraca.private.md) 
+### [Vraca.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa/City/Vraca.protect.md) 
 
-### [Vraca.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vratsa\CityVraca.personal.md) 
+### [Vraca.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa/City/Vraca.private.md) 
 
-### [Vraca.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vratsa\CityVraca.secret.md)
+### [Vraca.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa/City/Vraca.personal.md) 
+
+### [Vraca.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vratsa/City/Vraca.secret.md)
 

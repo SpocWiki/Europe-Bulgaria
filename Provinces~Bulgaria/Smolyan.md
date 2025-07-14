@@ -41,15 +41,17 @@ markerFolder: ./Smolyan/
 
 ## Confidential Links & Embeds: 
 
-### [Smolyan.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSmolyan.public.md) 
+### [Smolyan](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Smolyan.md) 
 
-### [Smolyan.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSmolyan.internal.md) 
+### [Smolyan.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Smolyan.public.md) 
 
-### [Smolyan.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSmolyan.protect.md) 
+### [Smolyan.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Smolyan.internal.md) 
 
-### [Smolyan.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSmolyan.private.md) 
+### [Smolyan.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Smolyan.protect.md) 
 
-### [Smolyan.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSmolyan.personal.md) 
+### [Smolyan.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Smolyan.private.md) 
 
-### [Smolyan.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSmolyan.secret.md)
+### [Smolyan.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Smolyan.personal.md) 
+
+### [Smolyan.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Smolyan.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ivailovgrad.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityIvailovgrad.public.md) 
+### [Ivailovgrad](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kardzhali/City/Ivailovgrad.md) 
 
-### [Ivailovgrad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityIvailovgrad.internal.md) 
+### [Ivailovgrad.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kardzhali/City/Ivailovgrad.public.md) 
 
-### [Ivailovgrad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityIvailovgrad.protect.md) 
+### [Ivailovgrad.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kardzhali/City/Ivailovgrad.internal.md) 
 
-### [Ivailovgrad.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityIvailovgrad.private.md) 
+### [Ivailovgrad.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kardzhali/City/Ivailovgrad.protect.md) 
 
-### [Ivailovgrad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityIvailovgrad.personal.md) 
+### [Ivailovgrad.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kardzhali/City/Ivailovgrad.private.md) 
 
-### [Ivailovgrad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityIvailovgrad.secret.md)
+### [Ivailovgrad.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kardzhali/City/Ivailovgrad.personal.md) 
+
+### [Ivailovgrad.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kardzhali/City/Ivailovgrad.secret.md)
 

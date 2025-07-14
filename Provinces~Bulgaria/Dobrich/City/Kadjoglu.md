@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kadjoglu.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityKadjoglu.public.md) 
+### [Kadjoglu](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.md) 
 
-### [Kadjoglu.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityKadjoglu.internal.md) 
+### [Kadjoglu.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.public.md) 
 
-### [Kadjoglu.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityKadjoglu.protect.md) 
+### [Kadjoglu.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.internal.md) 
 
-### [Kadjoglu.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityKadjoglu.private.md) 
+### [Kadjoglu.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.protect.md) 
 
-### [Kadjoglu.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityKadjoglu.personal.md) 
+### [Kadjoglu.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.private.md) 
 
-### [Kadjoglu.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityKadjoglu.secret.md)
+### [Kadjoglu.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.personal.md) 
+
+### [Kadjoglu.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.secret.md)
 

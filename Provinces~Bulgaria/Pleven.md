@@ -41,15 +41,17 @@ markerFolder: ./Pleven/
 
 ## Confidential Links & Embeds: 
 
-### [Pleven.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPleven.public.md) 
+### [Pleven](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven.md) 
 
-### [Pleven.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPleven.internal.md) 
+### [Pleven.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven.public.md) 
 
-### [Pleven.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPleven.protect.md) 
+### [Pleven.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven.internal.md) 
 
-### [Pleven.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPleven.private.md) 
+### [Pleven.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven.protect.md) 
 
-### [Pleven.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPleven.personal.md) 
+### [Pleven.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven.private.md) 
 
-### [Pleven.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPleven.secret.md)
+### [Pleven.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven.personal.md) 
+
+### [Pleven.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven.secret.md)
 

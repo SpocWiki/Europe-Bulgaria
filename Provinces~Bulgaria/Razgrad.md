@@ -41,15 +41,17 @@ markerFolder: ./Razgrad/
 
 ## Confidential Links & Embeds: 
 
-### [Razgrad.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaRazgrad.public.md) 
+### [Razgrad](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Razgrad.md) 
 
-### [Razgrad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaRazgrad.internal.md) 
+### [Razgrad.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Razgrad.public.md) 
 
-### [Razgrad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaRazgrad.protect.md) 
+### [Razgrad.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Razgrad.internal.md) 
 
-### [Razgrad.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaRazgrad.private.md) 
+### [Razgrad.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Razgrad.protect.md) 
 
-### [Razgrad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaRazgrad.personal.md) 
+### [Razgrad.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Razgrad.private.md) 
 
-### [Razgrad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaRazgrad.secret.md)
+### [Razgrad.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Razgrad.personal.md) 
+
+### [Razgrad.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Razgrad.secret.md)
 

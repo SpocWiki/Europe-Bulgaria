@@ -41,15 +41,17 @@ markerFolder: ./Silistra/
 
 ## Confidential Links & Embeds: 
 
-### [Silistra.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSilistra.public.md) 
+### [Silistra](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Silistra.md) 
 
-### [Silistra.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSilistra.internal.md) 
+### [Silistra.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Silistra.public.md) 
 
-### [Silistra.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSilistra.protect.md) 
+### [Silistra.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Silistra.internal.md) 
 
-### [Silistra.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSilistra.private.md) 
+### [Silistra.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Silistra.protect.md) 
 
-### [Silistra.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSilistra.personal.md) 
+### [Silistra.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Silistra.private.md) 
 
-### [Silistra.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSilistra.secret.md)
+### [Silistra.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Silistra.personal.md) 
+
+### [Silistra.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Silistra.secret.md)
 

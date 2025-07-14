@@ -41,15 +41,17 @@ markerFolder: ./Grad_Sofiya/
 
 ## Confidential Links & Embeds: 
 
-### [Grad_Sofiya.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaGrad_Sofiya.public.md) 
+### [Grad_Sofiya](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Grad_Sofiya.md) 
 
-### [Grad_Sofiya.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaGrad_Sofiya.internal.md) 
+### [Grad_Sofiya.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Grad_Sofiya.public.md) 
 
-### [Grad_Sofiya.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaGrad_Sofiya.protect.md) 
+### [Grad_Sofiya.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Grad_Sofiya.internal.md) 
 
-### [Grad_Sofiya.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaGrad_Sofiya.private.md) 
+### [Grad_Sofiya.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Grad_Sofiya.protect.md) 
 
-### [Grad_Sofiya.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaGrad_Sofiya.personal.md) 
+### [Grad_Sofiya.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Grad_Sofiya.private.md) 
 
-### [Grad_Sofiya.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaGrad_Sofiya.secret.md)
+### [Grad_Sofiya.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Grad_Sofiya.personal.md) 
+
+### [Grad_Sofiya.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Grad_Sofiya.secret.md)
 

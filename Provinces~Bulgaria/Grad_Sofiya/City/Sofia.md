@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sofia.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Grad_Sofiya\CitySofia.public.md) 
+### [Sofia](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Grad_Sofiya/City/Sofia.md) 
 
-### [Sofia.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Grad_Sofiya\CitySofia.internal.md) 
+### [Sofia.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Grad_Sofiya/City/Sofia.public.md) 
 
-### [Sofia.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Grad_Sofiya\CitySofia.protect.md) 
+### [Sofia.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Grad_Sofiya/City/Sofia.internal.md) 
 
-### [Sofia.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Grad_Sofiya\CitySofia.private.md) 
+### [Sofia.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Grad_Sofiya/City/Sofia.protect.md) 
 
-### [Sofia.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Grad_Sofiya\CitySofia.personal.md) 
+### [Sofia.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Grad_Sofiya/City/Sofia.private.md) 
 
-### [Sofia.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Grad_Sofiya\CitySofia.secret.md)
+### [Sofia.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Grad_Sofiya/City/Sofia.personal.md) 
+
+### [Sofia.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Grad_Sofiya/City/Sofia.secret.md)
 

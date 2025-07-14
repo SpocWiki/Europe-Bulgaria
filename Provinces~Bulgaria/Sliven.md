@@ -41,15 +41,17 @@ markerFolder: ./Sliven/
 
 ## Confidential Links & Embeds: 
 
-### [Sliven.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSliven.public.md) 
+### [Sliven](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sliven.md) 
 
-### [Sliven.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSliven.internal.md) 
+### [Sliven.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sliven.public.md) 
 
-### [Sliven.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSliven.protect.md) 
+### [Sliven.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sliven.internal.md) 
 
-### [Sliven.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSliven.private.md) 
+### [Sliven.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sliven.protect.md) 
 
-### [Sliven.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSliven.personal.md) 
+### [Sliven.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sliven.private.md) 
 
-### [Sliven.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSliven.secret.md)
+### [Sliven.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sliven.personal.md) 
+
+### [Sliven.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Sliven.secret.md)
 

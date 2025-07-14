@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Shipka.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityShipka.public.md) 
+### [Shipka](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Shipka.md) 
 
-### [Shipka.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityShipka.internal.md) 
+### [Shipka.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Shipka.public.md) 
 
-### [Shipka.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityShipka.protect.md) 
+### [Shipka.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Shipka.internal.md) 
 
-### [Shipka.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityShipka.private.md) 
+### [Shipka.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Shipka.protect.md) 
 
-### [Shipka.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityShipka.personal.md) 
+### [Shipka.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Shipka.private.md) 
 
-### [Shipka.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityShipka.secret.md)
+### [Shipka.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Shipka.personal.md) 
+
+### [Shipka.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Shipka.secret.md)
 

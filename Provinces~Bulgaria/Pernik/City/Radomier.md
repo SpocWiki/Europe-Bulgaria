@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Radomier.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pernik\CityRadomier.public.md) 
+### [Radomier](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pernik/City/Radomier.md) 
 
-### [Radomier.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pernik\CityRadomier.internal.md) 
+### [Radomier.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pernik/City/Radomier.public.md) 
 
-### [Radomier.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pernik\CityRadomier.protect.md) 
+### [Radomier.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pernik/City/Radomier.internal.md) 
 
-### [Radomier.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pernik\CityRadomier.private.md) 
+### [Radomier.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pernik/City/Radomier.protect.md) 
 
-### [Radomier.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pernik\CityRadomier.personal.md) 
+### [Radomier.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pernik/City/Radomier.private.md) 
 
-### [Radomier.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pernik\CityRadomier.secret.md)
+### [Radomier.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pernik/City/Radomier.personal.md) 
+
+### [Radomier.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pernik/City/Radomier.secret.md)
 

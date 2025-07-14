@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Philippopel=Plovdir.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Plovdiv\CityPhilippopel=Plovdir.public.md) 
+### [Philippopel=Plovdir](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.md) 
 
-### [Philippopel=Plovdir.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Plovdiv\CityPhilippopel=Plovdir.internal.md) 
+### [Philippopel=Plovdir.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.public.md) 
 
-### [Philippopel=Plovdir.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Plovdiv\CityPhilippopel=Plovdir.protect.md) 
+### [Philippopel=Plovdir.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.internal.md) 
 
-### [Philippopel=Plovdir.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Plovdiv\CityPhilippopel=Plovdir.private.md) 
+### [Philippopel=Plovdir.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.protect.md) 
 
-### [Philippopel=Plovdir.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Plovdiv\CityPhilippopel=Plovdir.personal.md) 
+### [Philippopel=Plovdir.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.private.md) 
 
-### [Philippopel=Plovdir.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Plovdiv\CityPhilippopel=Plovdir.secret.md)
+### [Philippopel=Plovdir.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.personal.md) 
+
+### [Philippopel=Plovdir.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.secret.md)
 

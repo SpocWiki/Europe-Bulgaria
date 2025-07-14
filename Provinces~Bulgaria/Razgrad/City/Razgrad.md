@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Razgrad.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Razgrad\CityRazgrad.public.md) 
+### [Razgrad](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Razgrad/City/Razgrad.md) 
 
-### [Razgrad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Razgrad\CityRazgrad.internal.md) 
+### [Razgrad.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Razgrad/City/Razgrad.public.md) 
 
-### [Razgrad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Razgrad\CityRazgrad.protect.md) 
+### [Razgrad.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Razgrad/City/Razgrad.internal.md) 
 
-### [Razgrad.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Razgrad\CityRazgrad.private.md) 
+### [Razgrad.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Razgrad/City/Razgrad.protect.md) 
 
-### [Razgrad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Razgrad\CityRazgrad.personal.md) 
+### [Razgrad.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Razgrad/City/Razgrad.private.md) 
 
-### [Razgrad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Razgrad\CityRazgrad.secret.md)
+### [Razgrad.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Razgrad/City/Razgrad.personal.md) 
+
+### [Razgrad.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Razgrad/City/Razgrad.secret.md)
 

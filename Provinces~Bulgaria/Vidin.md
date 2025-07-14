@@ -41,15 +41,17 @@ markerFolder: ./Vidin/
 
 ## Confidential Links & Embeds: 
 
-### [Vidin.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVidin.public.md) 
+### [Vidin](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin.md) 
 
-### [Vidin.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVidin.internal.md) 
+### [Vidin.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin.public.md) 
 
-### [Vidin.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVidin.protect.md) 
+### [Vidin.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin.internal.md) 
 
-### [Vidin.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVidin.private.md) 
+### [Vidin.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin.protect.md) 
 
-### [Vidin.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVidin.personal.md) 
+### [Vidin.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin.private.md) 
 
-### [Vidin.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaVidin.secret.md)
+### [Vidin.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin.personal.md) 
+
+### [Vidin.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin.secret.md)
 

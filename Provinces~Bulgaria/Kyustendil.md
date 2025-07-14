@@ -41,15 +41,17 @@ markerFolder: ./Kyustendil/
 
 ## Confidential Links & Embeds: 
 
-### [Kyustendil.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaKyustendil.public.md) 
+### [Kyustendil](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kyustendil.md) 
 
-### [Kyustendil.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaKyustendil.internal.md) 
+### [Kyustendil.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kyustendil.public.md) 
 
-### [Kyustendil.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaKyustendil.protect.md) 
+### [Kyustendil.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kyustendil.internal.md) 
 
-### [Kyustendil.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaKyustendil.private.md) 
+### [Kyustendil.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kyustendil.protect.md) 
 
-### [Kyustendil.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaKyustendil.personal.md) 
+### [Kyustendil.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kyustendil.private.md) 
 
-### [Kyustendil.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaKyustendil.secret.md)
+### [Kyustendil.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kyustendil.personal.md) 
+
+### [Kyustendil.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Kyustendil.secret.md)
 

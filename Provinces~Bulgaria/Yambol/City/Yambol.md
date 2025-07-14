@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Yambol.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Yambol\CityYambol.public.md) 
+### [Yambol](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol/City/Yambol.md) 
 
-### [Yambol.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Yambol\CityYambol.internal.md) 
+### [Yambol.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol/City/Yambol.public.md) 
 
-### [Yambol.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Yambol\CityYambol.protect.md) 
+### [Yambol.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol/City/Yambol.internal.md) 
 
-### [Yambol.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Yambol\CityYambol.private.md) 
+### [Yambol.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol/City/Yambol.protect.md) 
 
-### [Yambol.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Yambol\CityYambol.personal.md) 
+### [Yambol.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol/City/Yambol.private.md) 
 
-### [Yambol.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Yambol\CityYambol.secret.md)
+### [Yambol.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol/City/Yambol.personal.md) 
+
+### [Yambol.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol/City/Yambol.secret.md)
 

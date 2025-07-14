@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bergovetz.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Montana\CityBergovetz.public.md) 
+### [Bergovetz](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.md) 
 
-### [Bergovetz.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Montana\CityBergovetz.internal.md) 
+### [Bergovetz.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.public.md) 
 
-### [Bergovetz.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Montana\CityBergovetz.protect.md) 
+### [Bergovetz.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.internal.md) 
 
-### [Bergovetz.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Montana\CityBergovetz.private.md) 
+### [Bergovetz.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.protect.md) 
 
-### [Bergovetz.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Montana\CityBergovetz.personal.md) 
+### [Bergovetz.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.private.md) 
 
-### [Bergovetz.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Montana\CityBergovetz.secret.md)
+### [Bergovetz.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.personal.md) 
+
+### [Bergovetz.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.secret.md)
 

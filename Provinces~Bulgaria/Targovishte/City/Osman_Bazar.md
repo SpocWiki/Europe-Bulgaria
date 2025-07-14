@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Osman_Bazar.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Targovishte\CityOsman_Bazar.public.md) 
+### [Osman_Bazar](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Targovishte/City/Osman_Bazar.md) 
 
-### [Osman_Bazar.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Targovishte\CityOsman_Bazar.internal.md) 
+### [Osman_Bazar.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Targovishte/City/Osman_Bazar.public.md) 
 
-### [Osman_Bazar.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Targovishte\CityOsman_Bazar.protect.md) 
+### [Osman_Bazar.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Targovishte/City/Osman_Bazar.internal.md) 
 
-### [Osman_Bazar.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Targovishte\CityOsman_Bazar.private.md) 
+### [Osman_Bazar.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Targovishte/City/Osman_Bazar.protect.md) 
 
-### [Osman_Bazar.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Targovishte\CityOsman_Bazar.personal.md) 
+### [Osman_Bazar.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Targovishte/City/Osman_Bazar.private.md) 
 
-### [Osman_Bazar.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Targovishte\CityOsman_Bazar.secret.md)
+### [Osman_Bazar.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Targovishte/City/Osman_Bazar.personal.md) 
+
+### [Osman_Bazar.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Targovishte/City/Osman_Bazar.secret.md)
 

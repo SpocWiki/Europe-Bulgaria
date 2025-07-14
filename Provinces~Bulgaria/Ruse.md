@@ -41,15 +41,17 @@ markerFolder: ./Ruse/
 
 ## Confidential Links & Embeds: 
 
-### [Ruse.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaRuse.public.md) 
+### [Ruse](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Ruse.md) 
 
-### [Ruse.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaRuse.internal.md) 
+### [Ruse.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Ruse.public.md) 
 
-### [Ruse.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaRuse.protect.md) 
+### [Ruse.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Ruse.internal.md) 
 
-### [Ruse.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaRuse.private.md) 
+### [Ruse.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Ruse.protect.md) 
 
-### [Ruse.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaRuse.personal.md) 
+### [Ruse.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Ruse.private.md) 
 
-### [Ruse.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaRuse.secret.md)
+### [Ruse.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Ruse.personal.md) 
+
+### [Ruse.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Ruse.secret.md)
 
