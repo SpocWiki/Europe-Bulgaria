@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/City/Philippopel=Plovdir|Philippopel=Plovdir]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/City/Philippopel=Plovdir.public|Philippopel=Plovdir.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/City/Philippopel=Plovdir.internal|Philippopel=Plovdir.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/City/Philippopel=Plovdir.protect|Philippopel=Plovdir.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/City/Philippopel=Plovdir.private|Philippopel=Plovdir.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/City/Philippopel=Plovdir.personal|Philippopel=Plovdir.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/City/Philippopel=Plovdir.secret|Philippopel=Plovdir.secret]] 
+
+### [Philippopel=Plovdir.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Plovdiv\CityPhilippopel=Plovdir.public.md) 
+
+### [Philippopel=Plovdir.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Plovdiv\CityPhilippopel=Plovdir.internal.md) 
+
+### [Philippopel=Plovdir.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Plovdiv\CityPhilippopel=Plovdir.protect.md) 
+
+### [Philippopel=Plovdir.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Plovdiv\CityPhilippopel=Plovdir.private.md) 
+
+### [Philippopel=Plovdir.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Plovdiv\CityPhilippopel=Plovdir.personal.md) 
+
+### [Philippopel=Plovdir.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Plovdiv\CityPhilippopel=Plovdir.secret.md)
+

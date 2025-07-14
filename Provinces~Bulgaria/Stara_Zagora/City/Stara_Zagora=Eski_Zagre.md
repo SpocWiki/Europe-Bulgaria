@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/City/Stara_Zagora=Eski_Zagre|Stara_Zagora=Eski_Zagre]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/City/Stara_Zagora=Eski_Zagre.public|Stara_Zagora=Eski_Zagre.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/City/Stara_Zagora=Eski_Zagre.internal|Stara_Zagora=Eski_Zagre.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/City/Stara_Zagora=Eski_Zagre.protect|Stara_Zagora=Eski_Zagre.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/City/Stara_Zagora=Eski_Zagre.private|Stara_Zagora=Eski_Zagre.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/City/Stara_Zagora=Eski_Zagre.personal|Stara_Zagora=Eski_Zagre.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/City/Stara_Zagora=Eski_Zagre.secret|Stara_Zagora=Eski_Zagre.secret]] 
+
+### [Stara_Zagora=Eski_Zagre.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityStara_Zagora=Eski_Zagre.public.md) 
+
+### [Stara_Zagora=Eski_Zagre.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityStara_Zagora=Eski_Zagre.internal.md) 
+
+### [Stara_Zagora=Eski_Zagre.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityStara_Zagora=Eski_Zagre.protect.md) 
+
+### [Stara_Zagora=Eski_Zagre.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityStara_Zagora=Eski_Zagre.private.md) 
+
+### [Stara_Zagora=Eski_Zagre.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityStara_Zagora=Eski_Zagre.personal.md) 
+
+### [Stara_Zagora=Eski_Zagre.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityStara_Zagora=Eski_Zagre.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/City/Bazardjik|Bazardjik]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/City/Bazardjik.public|Bazardjik.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/City/Bazardjik.internal|Bazardjik.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/City/Bazardjik.protect|Bazardjik.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/City/Bazardjik.private|Bazardjik.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/City/Bazardjik.personal|Bazardjik.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/City/Bazardjik.secret|Bazardjik.secret]] 
+
+### [Bazardjik.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityBazardjik.public.md) 
+
+### [Bazardjik.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityBazardjik.internal.md) 
+
+### [Bazardjik.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityBazardjik.protect.md) 
+
+### [Bazardjik.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityBazardjik.private.md) 
+
+### [Bazardjik.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityBazardjik.personal.md) 
+
+### [Bazardjik.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityBazardjik.secret.md)
+

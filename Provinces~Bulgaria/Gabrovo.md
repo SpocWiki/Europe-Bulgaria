@@ -40,11 +40,16 @@ markerFolder: ./Gabrovo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Gabrovo|Gabrovo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Gabrovo.public|Gabrovo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Gabrovo.internal|Gabrovo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Gabrovo.protect|Gabrovo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Gabrovo.private|Gabrovo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Gabrovo.personal|Gabrovo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Gabrovo.secret|Gabrovo.secret]] 
+
+### [Gabrovo.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaGabrovo.public.md) 
+
+### [Gabrovo.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaGabrovo.internal.md) 
+
+### [Gabrovo.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaGabrovo.protect.md) 
+
+### [Gabrovo.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaGabrovo.private.md) 
+
+### [Gabrovo.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaGabrovo.personal.md) 
+
+### [Gabrovo.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaGabrovo.secret.md)
 

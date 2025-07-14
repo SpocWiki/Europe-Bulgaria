@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Yugoslavia/City/Qujetzo|Qujetzo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Yugoslavia/City/Qujetzo.public|Qujetzo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Yugoslavia/City/Qujetzo.internal|Qujetzo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Yugoslavia/City/Qujetzo.protect|Qujetzo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Yugoslavia/City/Qujetzo.private|Qujetzo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Yugoslavia/City/Qujetzo.personal|Qujetzo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Yugoslavia/City/Qujetzo.secret|Qujetzo.secret]] 
+
+### [Qujetzo.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vidin\CityQujetzo.public.md) 
+
+### [Qujetzo.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vidin\CityQujetzo.internal.md) 
+
+### [Qujetzo.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vidin\CityQujetzo.protect.md) 
+
+### [Qujetzo.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vidin\CityQujetzo.private.md) 
+
+### [Qujetzo.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vidin\CityQujetzo.personal.md) 
+
+### [Qujetzo.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Vidin\CityQujetzo.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Shumen/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Shumen|Shumen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Shumen.public|Shumen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Shumen.internal|Shumen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Shumen.protect|Shumen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Shumen.private|Shumen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Shumen.personal|Shumen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Shumen.secret|Shumen.secret]] 
+
+### [Shumen.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaShumen.public.md) 
+
+### [Shumen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaShumen.internal.md) 
+
+### [Shumen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaShumen.protect.md) 
+
+### [Shumen.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaShumen.private.md) 
+
+### [Shumen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaShumen.personal.md) 
+
+### [Shumen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaShumen.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/City/Gabrovo|Gabrovo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/City/Gabrovo.public|Gabrovo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/City/Gabrovo.internal|Gabrovo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/City/Gabrovo.protect|Gabrovo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/City/Gabrovo.private|Gabrovo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/City/Gabrovo.personal|Gabrovo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/City/Gabrovo.secret|Gabrovo.secret]] 
+
+### [Gabrovo.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Gabrovo\CityGabrovo.public.md) 
+
+### [Gabrovo.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Gabrovo\CityGabrovo.internal.md) 
+
+### [Gabrovo.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Gabrovo\CityGabrovo.protect.md) 
+
+### [Gabrovo.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Gabrovo\CityGabrovo.private.md) 
+
+### [Gabrovo.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Gabrovo\CityGabrovo.personal.md) 
+
+### [Gabrovo.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Gabrovo\CityGabrovo.secret.md)
+

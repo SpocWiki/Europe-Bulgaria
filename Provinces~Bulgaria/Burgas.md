@@ -40,11 +40,16 @@ markerFolder: ./Burgas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Burgas|Burgas]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Burgas.public|Burgas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Burgas.internal|Burgas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Burgas.protect|Burgas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Burgas.private|Burgas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Burgas.personal|Burgas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Burgas.secret|Burgas.secret]] 
+
+### [Burgas.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaBurgas.public.md) 
+
+### [Burgas.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaBurgas.internal.md) 
+
+### [Burgas.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaBurgas.protect.md) 
+
+### [Burgas.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaBurgas.private.md) 
+
+### [Burgas.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaBurgas.personal.md) 
+
+### [Burgas.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaBurgas.secret.md)
 

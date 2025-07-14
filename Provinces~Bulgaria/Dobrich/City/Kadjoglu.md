@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Kadjoglu|Kadjoglu]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Kadjoglu.public|Kadjoglu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Kadjoglu.internal|Kadjoglu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Kadjoglu.protect|Kadjoglu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Kadjoglu.private|Kadjoglu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Kadjoglu.personal|Kadjoglu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Kadjoglu.secret|Kadjoglu.secret]] 
+
+### [Kadjoglu.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityKadjoglu.public.md) 
+
+### [Kadjoglu.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityKadjoglu.internal.md) 
+
+### [Kadjoglu.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityKadjoglu.protect.md) 
+
+### [Kadjoglu.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityKadjoglu.private.md) 
+
+### [Kadjoglu.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityKadjoglu.personal.md) 
+
+### [Kadjoglu.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Dobrich\CityKadjoglu.secret.md)
+

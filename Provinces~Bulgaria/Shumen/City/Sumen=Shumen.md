@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/City/Sumen=Shumen|Sumen=Shumen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/City/Sumen=Shumen.public|Sumen=Shumen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/City/Sumen=Shumen.internal|Sumen=Shumen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/City/Sumen=Shumen.protect|Sumen=Shumen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/City/Sumen=Shumen.private|Sumen=Shumen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/City/Sumen=Shumen.personal|Sumen=Shumen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/City/Sumen=Shumen.secret|Sumen=Shumen.secret]] 
+
+### [Sumen=Shumen.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Shumen\CitySumen=Shumen.public.md) 
+
+### [Sumen=Shumen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Shumen\CitySumen=Shumen.internal.md) 
+
+### [Sumen=Shumen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Shumen\CitySumen=Shumen.protect.md) 
+
+### [Sumen=Shumen.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Shumen\CitySumen=Shumen.private.md) 
+
+### [Sumen=Shumen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Shumen\CitySumen=Shumen.personal.md) 
+
+### [Sumen=Shumen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Shumen\CitySumen=Shumen.secret.md)
+

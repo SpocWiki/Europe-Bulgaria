@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/City/Ivailovgrad|Ivailovgrad]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/City/Ivailovgrad.public|Ivailovgrad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/City/Ivailovgrad.internal|Ivailovgrad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/City/Ivailovgrad.protect|Ivailovgrad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/City/Ivailovgrad.private|Ivailovgrad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/City/Ivailovgrad.personal|Ivailovgrad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/City/Ivailovgrad.secret|Ivailovgrad.secret]] 
+
+### [Ivailovgrad.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityIvailovgrad.public.md) 
+
+### [Ivailovgrad.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityIvailovgrad.internal.md) 
+
+### [Ivailovgrad.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityIvailovgrad.protect.md) 
+
+### [Ivailovgrad.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityIvailovgrad.private.md) 
+
+### [Ivailovgrad.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityIvailovgrad.personal.md) 
+
+### [Ivailovgrad.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityIvailovgrad.secret.md)
+

@@ -131,12 +131,17 @@ Capital :: [[./Bulgaria/Counties/Sofia]]
 [has_place_latitude::42.9342] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria|Bulgaria]] 
-- [[../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria.public|Bulgaria.public]] 
-- [[../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria.internal|Bulgaria.internal]] 
-- [[../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria.protect|Bulgaria.protect]] 
-- [[../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria.private|Bulgaria.private]] 
-- [[../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria.personal|Bulgaria.personal]] 
-- [[../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria.secret|Bulgaria.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~East\BulgariaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~East\BulgariaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~East\BulgariaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~East\BulgariaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~East\BulgariaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~East\BulgariaReadMe.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/City/Tirnovo|Tirnovo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/City/Tirnovo.public|Tirnovo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/City/Tirnovo.internal|Tirnovo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/City/Tirnovo.protect|Tirnovo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/City/Tirnovo.private|Tirnovo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/City/Tirnovo.personal|Tirnovo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/City/Tirnovo.secret|Tirnovo.secret]] 
+
+### [Tirnovo.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Veliko_Tarnovo\CityTirnovo.public.md) 
+
+### [Tirnovo.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Veliko_Tarnovo\CityTirnovo.internal.md) 
+
+### [Tirnovo.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Veliko_Tarnovo\CityTirnovo.protect.md) 
+
+### [Tirnovo.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Veliko_Tarnovo\CityTirnovo.private.md) 
+
+### [Tirnovo.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Veliko_Tarnovo\CityTirnovo.personal.md) 
+
+### [Tirnovo.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Veliko_Tarnovo\CityTirnovo.secret.md)
+

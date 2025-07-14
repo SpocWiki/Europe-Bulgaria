@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/City/Sistovo=Swichtov|Sistovo=Swichtov]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/City/Sistovo=Swichtov.public|Sistovo=Swichtov.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/City/Sistovo=Swichtov.internal|Sistovo=Swichtov.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/City/Sistovo=Swichtov.protect|Sistovo=Swichtov.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/City/Sistovo=Swichtov.private|Sistovo=Swichtov.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/City/Sistovo=Swichtov.personal|Sistovo=Swichtov.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/City/Sistovo=Swichtov.secret|Sistovo=Swichtov.secret]] 
+
+### [Sistovo=Swichtov.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Veliko_Tarnovo\CitySistovo=Swichtov.public.md) 
+
+### [Sistovo=Swichtov.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Veliko_Tarnovo\CitySistovo=Swichtov.internal.md) 
+
+### [Sistovo=Swichtov.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Veliko_Tarnovo\CitySistovo=Swichtov.protect.md) 
+
+### [Sistovo=Swichtov.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Veliko_Tarnovo\CitySistovo=Swichtov.private.md) 
+
+### [Sistovo=Swichtov.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Veliko_Tarnovo\CitySistovo=Swichtov.personal.md) 
+
+### [Sistovo=Swichtov.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Veliko_Tarnovo\CitySistovo=Swichtov.secret.md)
+

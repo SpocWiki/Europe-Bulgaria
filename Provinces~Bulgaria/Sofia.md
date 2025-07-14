@@ -40,11 +40,16 @@ markerFolder: ./Sofia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sofia|Sofia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sofia.public|Sofia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sofia.internal|Sofia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sofia.protect|Sofia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sofia.private|Sofia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sofia.personal|Sofia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sofia.secret|Sofia.secret]] 
+
+### [Sofia.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSofia.public.md) 
+
+### [Sofia.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSofia.internal.md) 
+
+### [Sofia.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSofia.protect.md) 
+
+### [Sofia.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSofia.private.md) 
+
+### [Sofia.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSofia.personal.md) 
+
+### [Sofia.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSofia.secret.md)
 

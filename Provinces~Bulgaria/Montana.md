@@ -40,11 +40,16 @@ markerFolder: ./Montana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Montana|Montana]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Montana.public|Montana.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Montana.internal|Montana.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Montana.protect|Montana.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Montana.private|Montana.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Montana.personal|Montana.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Montana.secret|Montana.secret]] 
+
+### [Montana.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaMontana.public.md) 
+
+### [Montana.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaMontana.internal.md) 
+
+### [Montana.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaMontana.protect.md) 
+
+### [Montana.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaMontana.private.md) 
+
+### [Montana.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaMontana.personal.md) 
+
+### [Montana.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaMontana.secret.md)
 

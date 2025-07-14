@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/City/Plewna=Plewen|Plewna=Plewen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/City/Plewna=Plewen.public|Plewna=Plewen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/City/Plewna=Plewen.internal|Plewna=Plewen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/City/Plewna=Plewen.protect|Plewna=Plewen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/City/Plewna=Plewen.private|Plewna=Plewen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/City/Plewna=Plewen.personal|Plewna=Plewen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/City/Plewna=Plewen.secret|Plewna=Plewen.secret]] 
+
+### [Plewna=Plewen.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pleven\CityPlewna=Plewen.public.md) 
+
+### [Plewna=Plewen.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pleven\CityPlewna=Plewen.internal.md) 
+
+### [Plewna=Plewen.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pleven\CityPlewna=Plewen.protect.md) 
+
+### [Plewna=Plewen.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pleven\CityPlewna=Plewen.private.md) 
+
+### [Plewna=Plewen.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pleven\CityPlewna=Plewen.personal.md) 
+
+### [Plewna=Plewen.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pleven\CityPlewna=Plewen.secret.md)
+

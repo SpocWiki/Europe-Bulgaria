@@ -40,11 +40,16 @@ markerFolder: ./Haskovo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Haskovo|Haskovo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Haskovo.public|Haskovo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Haskovo.internal|Haskovo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Haskovo.protect|Haskovo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Haskovo.private|Haskovo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Haskovo.personal|Haskovo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Haskovo.secret|Haskovo.secret]] 
+
+### [Haskovo.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaHaskovo.public.md) 
+
+### [Haskovo.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaHaskovo.internal.md) 
+
+### [Haskovo.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaHaskovo.protect.md) 
+
+### [Haskovo.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaHaskovo.private.md) 
+
+### [Haskovo.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaHaskovo.personal.md) 
+
+### [Haskovo.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaHaskovo.secret.md)
 

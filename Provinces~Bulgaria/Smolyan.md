@@ -40,11 +40,16 @@ markerFolder: ./Smolyan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Smolyan|Smolyan]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Smolyan.public|Smolyan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Smolyan.internal|Smolyan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Smolyan.protect|Smolyan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Smolyan.private|Smolyan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Smolyan.personal|Smolyan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Smolyan.secret|Smolyan.secret]] 
+
+### [Smolyan.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSmolyan.public.md) 
+
+### [Smolyan.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSmolyan.internal.md) 
+
+### [Smolyan.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSmolyan.protect.md) 
+
+### [Smolyan.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSmolyan.private.md) 
+
+### [Smolyan.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSmolyan.personal.md) 
+
+### [Smolyan.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSmolyan.secret.md)
 

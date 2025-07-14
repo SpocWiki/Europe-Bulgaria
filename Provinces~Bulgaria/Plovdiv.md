@@ -40,11 +40,16 @@ markerFolder: ./Plovdiv/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Plovdiv|Plovdiv]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Plovdiv.public|Plovdiv.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Plovdiv.internal|Plovdiv.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Plovdiv.protect|Plovdiv.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Plovdiv.private|Plovdiv.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Plovdiv.personal|Plovdiv.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Plovdiv.secret|Plovdiv.secret]] 
+
+### [Plovdiv.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPlovdiv.public.md) 
+
+### [Plovdiv.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPlovdiv.internal.md) 
+
+### [Plovdiv.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPlovdiv.protect.md) 
+
+### [Plovdiv.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPlovdiv.private.md) 
+
+### [Plovdiv.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPlovdiv.personal.md) 
+
+### [Plovdiv.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPlovdiv.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/City/Ortakivi=Ivailograd|Ortakivi=Ivailograd]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/City/Ortakivi=Ivailograd.public|Ortakivi=Ivailograd.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/City/Ortakivi=Ivailograd.internal|Ortakivi=Ivailograd.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/City/Ortakivi=Ivailograd.protect|Ortakivi=Ivailograd.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/City/Ortakivi=Ivailograd.private|Ortakivi=Ivailograd.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/City/Ortakivi=Ivailograd.personal|Ortakivi=Ivailograd.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/City/Ortakivi=Ivailograd.secret|Ortakivi=Ivailograd.secret]] 
+
+### [Ortakivi=Ivailograd.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityOrtakivi=Ivailograd.public.md) 
+
+### [Ortakivi=Ivailograd.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityOrtakivi=Ivailograd.internal.md) 
+
+### [Ortakivi=Ivailograd.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityOrtakivi=Ivailograd.protect.md) 
+
+### [Ortakivi=Ivailograd.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityOrtakivi=Ivailograd.private.md) 
+
+### [Ortakivi=Ivailograd.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityOrtakivi=Ivailograd.personal.md) 
+
+### [Ortakivi=Ivailograd.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kardzhali\CityOrtakivi=Ivailograd.secret.md)
+

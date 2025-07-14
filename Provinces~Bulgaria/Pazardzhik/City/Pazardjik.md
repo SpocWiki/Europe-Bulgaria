@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/City/Pazardjik|Pazardjik]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/City/Pazardjik.public|Pazardjik.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/City/Pazardjik.internal|Pazardjik.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/City/Pazardjik.protect|Pazardjik.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/City/Pazardjik.private|Pazardjik.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/City/Pazardjik.personal|Pazardjik.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/City/Pazardjik.secret|Pazardjik.secret]] 
+
+### [Pazardjik.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pazardzhik\CityPazardjik.public.md) 
+
+### [Pazardjik.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pazardzhik\CityPazardjik.internal.md) 
+
+### [Pazardjik.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pazardzhik\CityPazardjik.protect.md) 
+
+### [Pazardjik.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pazardzhik\CityPazardjik.private.md) 
+
+### [Pazardjik.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pazardzhik\CityPazardjik.personal.md) 
+
+### [Pazardjik.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Pazardzhik\CityPazardjik.secret.md)
+

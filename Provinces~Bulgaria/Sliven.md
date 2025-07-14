@@ -40,11 +40,16 @@ markerFolder: ./Sliven/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sliven|Sliven]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sliven.public|Sliven.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sliven.internal|Sliven.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sliven.protect|Sliven.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sliven.private|Sliven.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sliven.personal|Sliven.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Sliven.secret|Sliven.secret]] 
+
+### [Sliven.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSliven.public.md) 
+
+### [Sliven.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSliven.internal.md) 
+
+### [Sliven.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSliven.protect.md) 
+
+### [Sliven.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSliven.private.md) 
+
+### [Sliven.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSliven.personal.md) 
+
+### [Sliven.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaSliven.secret.md)
 

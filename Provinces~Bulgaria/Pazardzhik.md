@@ -40,11 +40,16 @@ markerFolder: ./Pazardzhik/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pazardzhik|Pazardzhik]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pazardzhik.public|Pazardzhik.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pazardzhik.internal|Pazardzhik.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pazardzhik.protect|Pazardzhik.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pazardzhik.private|Pazardzhik.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pazardzhik.personal|Pazardzhik.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/Counties/Pazardzhik.secret|Pazardzhik.secret]] 
+
+### [Pazardzhik.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPazardzhik.public.md) 
+
+### [Pazardzhik.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPazardzhik.internal.md) 
+
+### [Pazardzhik.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPazardzhik.protect.md) 
+
+### [Pazardzhik.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPazardzhik.private.md) 
+
+### [Pazardzhik.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPazardzhik.personal.md) 
+
+### [Pazardzhik.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~BulgariaPazardzhik.secret.md)
 

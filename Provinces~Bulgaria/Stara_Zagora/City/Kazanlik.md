@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/City/Kazanlik|Kazanlik]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/City/Kazanlik.public|Kazanlik.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/City/Kazanlik.internal|Kazanlik.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/City/Kazanlik.protect|Kazanlik.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/City/Kazanlik.private|Kazanlik.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/City/Kazanlik.personal|Kazanlik.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/City/Kazanlik.secret|Kazanlik.secret]] 
+
+### [Kazanlik.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityKazanlik.public.md) 
+
+### [Kazanlik.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityKazanlik.internal.md) 
+
+### [Kazanlik.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityKazanlik.protect.md) 
+
+### [Kazanlik.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityKazanlik.private.md) 
+
+### [Kazanlik.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityKazanlik.personal.md) 
+
+### [Kazanlik.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Stara_Zagora\CityKazanlik.secret.md)
+

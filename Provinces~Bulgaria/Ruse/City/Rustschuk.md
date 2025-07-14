@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/City/Rustschuk|Rustschuk]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/City/Rustschuk.public|Rustschuk.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/City/Rustschuk.internal|Rustschuk.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/City/Rustschuk.protect|Rustschuk.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/City/Rustschuk.private|Rustschuk.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/City/Rustschuk.personal|Rustschuk.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/City/Rustschuk.secret|Rustschuk.secret]] 
+
+### [Rustschuk.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Ruse\CityRustschuk.public.md) 
+
+### [Rustschuk.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Ruse\CityRustschuk.internal.md) 
+
+### [Rustschuk.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Ruse\CityRustschuk.protect.md) 
+
+### [Rustschuk.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Ruse\CityRustschuk.private.md) 
+
+### [Rustschuk.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Ruse\CityRustschuk.personal.md) 
+
+### [Rustschuk.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Ruse\CityRustschuk.secret.md)
+

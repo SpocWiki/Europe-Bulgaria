@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Bulgaria/City/Kustendjil|Kustendjil]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Bulgaria/City/Kustendjil.public|Kustendjil.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Bulgaria/City/Kustendjil.internal|Kustendjil.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Bulgaria/City/Kustendjil.protect|Kustendjil.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Bulgaria/City/Kustendjil.private|Kustendjil.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Bulgaria/City/Kustendjil.personal|Kustendjil.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Bulgaria/City/Kustendjil.secret|Kustendjil.secret]] 
+
+### [Kustendjil.public](/_public/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kyustendil\CityKustendjil.public.md) 
+
+### [Kustendjil.internal](/_internal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kyustendil\CityKustendjil.internal.md) 
+
+### [Kustendjil.protect](/_protect/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kyustendil\CityKustendjil.protect.md) 
+
+### [Kustendjil.private](/_private/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kyustendil\CityKustendjil.private.md) 
+
+### [Kustendjil.personal](/_personal/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kyustendil\CityKustendjil.personal.md) 
+
+### [Kustendjil.secret](/_secret/\Earth\Continent\Europe\Europe~East\Bulgaria\Provinces~Bulgaria\Kyustendil\CityKustendjil.secret.md)
+
