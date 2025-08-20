@@ -1,36 +1,37 @@
 ---
 location:
-- 42.9342
-- 25.3029
+  - 42.9342
+  - 25.3029
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Bulgaria
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Bulgaria
-- Bulgarie
-- بلغاريا
-- 保加利亚
-- Болгария
-- the Republic of Bulgaria
-- la República de Bulgaria
+  - Bulgaria
+  - Bulgarie
+  - بلغاريا
+  - 保加利亚
+  - Болгария
+  - the Republic of Bulgaria
+  - la República de Bulgaria
 Languages:
-- bg
-- tr-BG
-- rom
+  - bg
+  - tr-BG
+  - rom
 ---
 
 
