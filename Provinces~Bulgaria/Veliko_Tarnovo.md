@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Veliko_Tarnovo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Veliko_Tarnovo/
 markerFolder: ./Veliko_Tarnovo/

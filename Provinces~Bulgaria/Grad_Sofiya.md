@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Grad_Sofiya
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Grad_Sofiya/
 markerFolder: ./Grad_Sofiya/

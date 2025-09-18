@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Stara_Zagora
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Stara_Zagora/
 markerFolder: ./Stara_Zagora/
