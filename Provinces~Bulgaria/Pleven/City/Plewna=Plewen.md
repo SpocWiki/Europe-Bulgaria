@@ -21,7 +21,7 @@ State ::
 Country :: [[Bulgaria]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
