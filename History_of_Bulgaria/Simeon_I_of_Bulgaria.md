@@ -28,7 +28,7 @@ child:
   - "[[_Standards/WikiData/WD~Mihail_of_Bulgaria,3117667]]"
   - "[[_Standards/WikiData/WD~Boyan_The_Magician,12273864]]"
   - "[[_Standards/WikiData/WD~Ivan,20564881]]"
-described_by_source: "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+described_by_source: "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
 occupation: "[[_Standards/WikiData/WD~sovereign,2304859]]"
 manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
 sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"

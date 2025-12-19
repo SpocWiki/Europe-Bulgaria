@@ -1,7 +1,7 @@
 ---
 aliases:
   - Ivan_Vazov
-  - Ivan Minchov Vazov 
+  - Ivan Minchov Vazov
   - Иван Минчов Вазов
   - Vazov
 has_id_wikidata: Q310630
@@ -31,7 +31,7 @@ influenced_by: "[[_Standards/WikiData/WD~Hristo_Botev,347118]]"
 place_of_birth: "[[_Standards/WikiData/WD~Sopot,407110]]"
 academic_degree: "[[_Standards/WikiData/WD~academician,414528]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[_Standards/WikiData/WD~Great_Encyclopedia_Bulgaria_,12277139]]"
   - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"

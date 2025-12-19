@@ -9,7 +9,7 @@ has_id_wikidata: Q318461
 cause_of_death: "[[_Standards/WikiData/WD~hanging_to_death,175111]]"
 place_of_birth: "[[_Standards/WikiData/WD~Karlovo,316841]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
 occupation:
