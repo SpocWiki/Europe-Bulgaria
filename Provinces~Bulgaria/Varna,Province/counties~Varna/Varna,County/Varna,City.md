@@ -1,6 +1,7 @@
 ---
 aliases:
   - Varna
+  - Varna,City
 has_id_wikidata: Q6506
 location:
   - 43.2

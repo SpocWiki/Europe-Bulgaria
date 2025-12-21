@@ -6,47 +6,49 @@ aliases:
   - Simeon I Veliki
   - Συμεών Αʹ ὁ Μέγας
   - Sumeṓn prôtos ho Mégas
+  - Simeon_I_of_Bulgaria
+  - Simeon I of Bulgaria
 has_id_wikidata: Q192264
-field_of_work: "[[_Standards/WikiData/WD~politician,82955]]"
-cause_of_death: "[[_Standards/WikiData/WD~heart_failure,181754]]"
+field_of_work: '[[_Standards/WikiData/WD~politician,82955]]'
+cause_of_death: '[[_Standards/WikiData/WD~heart_failure,181754]]'
 position_held:
-  - "[[_Standards/WikiData/WD~khan,181888]]"
-  - "[[_Standards/WikiData/WD~King_of_Bulgaria,12298699]]"
-  - "[[_Standards/WikiData/WD~emperor,39018]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~First_Bulgarian_Empire,203817]]"
-place_of_death: "[[_Standards/WikiData/WD~Veliki_Preslav,243616]]"
-father: "[[_Standards/WikiData/WD~Boris_I_of_Bulgaria,311057]]"
-place_of_birth: "[[_Standards/WikiData/WD~Pliska,318889]]"
+  - '[[_Standards/WikiData/WD~khan,181888]]'
+  - '[[_Standards/WikiData/WD~King_of_Bulgaria,12298699]]'
+  - '[[_Standards/WikiData/WD~emperor,39018]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~First_Bulgarian_Empire,203817]]'
+place_of_death: '[[_Standards/WikiData/WD~Veliki_Preslav,243616]]'
+father: '[[_Standards/WikiData/WD~Boris_I_of_Bulgaria,311057]]'
+place_of_birth: '[[_Standards/WikiData/WD~Pliska,318889]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Vladimir_of_Bulgaria,324251]]"
-  - "[[_Standards/WikiData/WD~Anna_of_Bulgaria,12272076]]"
-  - "[[_Standards/WikiData/WD~Gabriel_of_Bulgaria,12275912]]"
-  - "[[_Standards/WikiData/WD~Eupraxia_of_Bulgaria,12279410]]"
-  - "[[_Standards/WikiData/WD~Jacob_of_Bulgaria,20500882]]"
+  - '[[_Standards/WikiData/WD~Vladimir_of_Bulgaria,324251]]'
+  - '[[_Standards/WikiData/WD~Anna_of_Bulgaria,12272076]]'
+  - '[[_Standards/WikiData/WD~Gabriel_of_Bulgaria,12275912]]'
+  - '[[_Standards/WikiData/WD~Eupraxia_of_Bulgaria,12279410]]'
+  - '[[_Standards/WikiData/WD~Jacob_of_Bulgaria,20500882]]'
 child:
-  - "[[_Standards/WikiData/WD~Peter_I_of_Bulgaria,334283]]"
-  - "[[_Standards/WikiData/WD~Mihail_of_Bulgaria,3117667]]"
-  - "[[_Standards/WikiData/WD~Boyan_The_Magician,12273864]]"
-  - "[[_Standards/WikiData/WD~Ivan,20564881]]"
-described_by_source: "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-occupation: "[[_Standards/WikiData/WD~sovereign,2304859]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+  - '[[_Standards/WikiData/WD~Peter_I_of_Bulgaria,334283]]'
+  - '[[_Standards/WikiData/WD~Mihail_of_Bulgaria,3117667]]'
+  - '[[_Standards/WikiData/WD~Boyan_The_Magician,12273864]]'
+  - '[[_Standards/WikiData/WD~Ivan,20564881]]'
+described_by_source: '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+occupation: '[[_Standards/WikiData/WD~sovereign,2304859]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family: "[[_Standards/WikiData/WD~Krum's_dynasty,8559999]]"
-spouse: "[[_Standards/WikiData/WD~María_Sursuvul,12285908]]"
-mother: "[[_Standards/WikiData/WD~Maria,20500853]]"
+spouse: '[[_Standards/WikiData/WD~María_Sursuvul,12285908]]'
+mother: '[[_Standards/WikiData/WD~Maria,20500853]]'
 date_of_death: 0927-06-01T00:00:00Z
-given_name: "[[_Standards/WikiData/WD~Simeon,1557]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+given_name: '[[_Standards/WikiData/WD~Simeon,1557]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 number_of_children: 4
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Old_Church_Slavonic,35499]]"
-  - "[[_Standards/WikiData/WD~Medieval_Greek,36387]]"
-noble_title: "[[_Standards/WikiData/WD~tsar,44356]]"
+  - '[[_Standards/WikiData/WD~Old_Church_Slavonic,35499]]'
+  - '[[_Standards/WikiData/WD~Medieval_Greek,36387]]'
+noble_title: '[[_Standards/WikiData/WD~tsar,44356]]'
 BHCL_UUID: e3d7cd25-0b91-4fbe-88f5-0cdaee45c34f
 date_of_birth: 0864-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B8%D0%B4%D0%B8%D0%BD%2C%20%D0%BC%D0%B0%D0%B9%202013%20-%20panoramio%20%2879%29.jpg
-ISNI: "0000000382124295"
+ISNI: 0000000382124295
 Commons_category: Simeon I of Bulgaria
 name_in_native_language: Цар Симео̀н I
 ---

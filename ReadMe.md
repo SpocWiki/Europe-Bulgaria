@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Bulgaria
+  - Bulgarie
+  - بلغاريا
+  - 保加利亚
+  - Болгария
+  - the Republic of Bulgaria
+  - la República de Bulgaria
+  - ReadMe
 location:
   - 42.9342
   - 25.3029
@@ -14,20 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Bulgaria
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Bulgaria
-  - Bulgarie
-  - بلغاريا
-  - 保加利亚
-  - Болгария
-  - the Republic of Bulgaria
-  - la República de Bulgaria
+publishDate: ''
+expiryDate: ''
 Languages:
   - bg
   - tr-BG

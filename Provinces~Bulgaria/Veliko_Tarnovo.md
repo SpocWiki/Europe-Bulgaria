@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Veliko_Tarnovo
+  - Veliko Tarnovo
 location:
   - 43.2
   - 25.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Veliko_Tarnovo
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Veliko_Tarnovo

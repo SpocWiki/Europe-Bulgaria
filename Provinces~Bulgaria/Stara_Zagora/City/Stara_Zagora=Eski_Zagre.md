@@ -1,16 +1,20 @@
 ---
-location: [42.42,25.63] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Stara_Zagora=Eski_Zagre
+  - Stara Zagora=Eski Zagre
+location:
+  - 42.42
+  - 25.63
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 34519
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

@@ -5,41 +5,42 @@ aliases:
   - Василъ Львскій
   - Vasil Ivanov Kunchev
   - Васил Иванов Кунчев
+  - Levski,Vasil
 has_id_wikidata: Q318461
-cause_of_death: "[[_Standards/WikiData/WD~hanging_to_death,175111]]"
-place_of_birth: "[[_Standards/WikiData/WD~Karlovo,316841]]"
+cause_of_death: '[[_Standards/WikiData/WD~hanging_to_death,175111]]'
+place_of_birth: '[[_Standards/WikiData/WD~Karlovo,316841]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 occupation:
-  - "[[_Standards/WikiData/WD~cleric,2259532]]"
-  - "[[_Standards/WikiData/WD~revolutionary,3242115]]"
-  - "[[_Standards/WikiData/WD~political_activist,11499147]]"
+  - '[[_Standards/WikiData/WD~cleric,2259532]]'
+  - '[[_Standards/WikiData/WD~revolutionary,3242115]]'
+  - '[[_Standards/WikiData/WD~political_activist,11499147]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]"
-  - "[[_Standards/WikiData/WD~Eastern_Orthodox_Church,35032]]"
-different_from: "[[_Standards/WikiData/WD~Vasil_Levski,3554912]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-mother: "[[_Standards/WikiData/WD~Gina_Kuncheva,12276979]]"
-given_name: "[[_Standards/WikiData/WD~Vasil,20091753]]"
-place_of_burial: "[[_Standards/WikiData/WD~tomb_of_Vasil_Levski,65224613]]"
-father: "[[_Standards/WikiData/WD~Ivan_Kunchev_Ivanov,87445446]]"
+  - '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]'
+  - '[[_Standards/WikiData/WD~Eastern_Orthodox_Church,35032]]'
+different_from: '[[_Standards/WikiData/WD~Vasil_Levski,3554912]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+mother: '[[_Standards/WikiData/WD~Gina_Kuncheva,12276979]]'
+given_name: '[[_Standards/WikiData/WD~Vasil,20091753]]'
+place_of_burial: '[[_Standards/WikiData/WD~tomb_of_Vasil_Levski,65224613]]'
+father: '[[_Standards/WikiData/WD~Ivan_Kunchev_Ivanov,87445446]]'
 date_of_death: 1873-02-18T00:00:00Z
 date_of_birth: 1837-07-18T00:00:00Z
-place_of_death: "[[_Standards/WikiData/WD~Sofia,472]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Bulgarian,7918]]"
-native_language: "[[_Standards/WikiData/WD~Bulgarian,7918]]"
-manner_of_death: "[[_Standards/WikiData/WD~capital_punishment,8454]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Ottoman_Empire,12560]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+place_of_death: '[[_Standards/WikiData/WD~Sofia,472]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Bulgarian,7918]]'
+native_language: '[[_Standards/WikiData/WD~Bulgarian,7918]]'
+manner_of_death: '[[_Standards/WikiData/WD~capital_punishment,8454]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Ottoman_Empire,12560]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 number_of_children: 0
-P1015: "12042596"
+P1015: 12042596
 BHCL_UUID: e758100d-12cd-4557-97ce-b63721f36b54
 name_in_native_language: Васил Левски
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BASA-600K-1-1865-15-Vasil%20Levski-retouched.jpeg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Vasil%20Levski%20signature.svg
-ISNI: "0000000120990134"
+ISNI: 0000000120990134
 Commons_category: Vasil Levski
 birth_name: Васил Иванов Кунчев
 ---

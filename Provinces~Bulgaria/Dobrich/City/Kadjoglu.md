@@ -1,16 +1,19 @@
 ---
-location: [43.57,27.83] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Kadjoglu
+location:
+  - 43.57
+  - 27.83
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31246
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

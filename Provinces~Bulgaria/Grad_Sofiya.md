@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Grad_Sofiya
+  - Grad Sofiya
 location:
   - 42.7
   - 23.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Grad_Sofiya
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Grad_Sofiya
