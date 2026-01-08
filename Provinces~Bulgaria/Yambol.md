@@ -40,17 +40,17 @@ markerFolder: ./Yambol/
 
 ## Confidential Links & Embeds: 
 
-### [Yambol](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol|Yambol]] 
 
-### [Yambol.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol.public|Yambol.public]] 
 
-### [Yambol.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol.internal|Yambol.internal]] 
 
-### [Yambol.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol.protect|Yambol.protect]] 
 
-### [Yambol.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol.private|Yambol.private]] 
 
-### [Yambol.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol.personal|Yambol.personal]] 
 
-### [Yambol.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Yambol.secret|Yambol.secret]] 
 

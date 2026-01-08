@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33586
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.68
+dv_has_place_latitude: 43.42
+dv_name: Qujetzo
+dv_Country: "[[../../../../../Europe~South/Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.68] 
-[has_place_latitude::43.42] 
-[name::Qujetzo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../../Europe~South/Yugoslavia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Qujetzo](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin/City/Qujetzo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin/City/Qujetzo|Qujetzo]] 
 
-### [Qujetzo.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin/City/Qujetzo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin/City/Qujetzo.public|Qujetzo.public]] 
 
-### [Qujetzo.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin/City/Qujetzo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin/City/Qujetzo.internal|Qujetzo.internal]] 
 
-### [Qujetzo.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin/City/Qujetzo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin/City/Qujetzo.protect|Qujetzo.protect]] 
 
-### [Qujetzo.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin/City/Qujetzo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin/City/Qujetzo.private|Qujetzo.private]] 
 
-### [Qujetzo.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin/City/Qujetzo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin/City/Qujetzo.personal|Qujetzo.personal]] 
 
-### [Qujetzo.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin/City/Qujetzo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Vidin/City/Qujetzo.secret|Qujetzo.secret]] 
 

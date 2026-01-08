@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29127
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 23.13
+dv_has_place_latitude: 43.23
+dv_name: Bergovetz
+dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::23.13] 
-[has_place_latitude::43.23] 
-[name::Bergovetz] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Bulgaria]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bergovetz](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz|Bergovetz]] 
 
-### [Bergovetz.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.public|Bergovetz.public]] 
 
-### [Bergovetz.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.internal|Bergovetz.internal]] 
 
-### [Bergovetz.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.protect|Bergovetz.protect]] 
 
-### [Bergovetz.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.private|Bergovetz.private]] 
 
-### [Bergovetz.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.personal|Bergovetz.personal]] 
 
-### [Bergovetz.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Montana/City/Bergovetz.secret|Bergovetz.secret]] 
 

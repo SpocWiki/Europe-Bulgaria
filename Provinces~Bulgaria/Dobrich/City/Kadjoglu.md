@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31246
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.83
+dv_has_place_latitude: 43.57
+dv_name: Kadjoglu
+dv_Country: "[[../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.83] 
-[has_place_latitude::43.57] 
-[name::Kadjoglu] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kadjoglu](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu|Kadjoglu]] 
 
-### [Kadjoglu.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.public|Kadjoglu.public]] 
 
-### [Kadjoglu.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.internal|Kadjoglu.internal]] 
 
-### [Kadjoglu.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.protect|Kadjoglu.protect]] 
 
-### [Kadjoglu.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.private|Kadjoglu.private]] 
 
-### [Kadjoglu.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.personal|Kadjoglu.personal]] 
 
-### [Kadjoglu.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Kadjoglu.secret|Kadjoglu.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33508
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.45
+dv_has_place_latitude: 43.18
+dv_name: Pravadija
+dv_Country: "[[../../../../../Bulgaria]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.45] 
-[has_place_latitude::43.18] 
-[name::Pravadija] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Bulgaria]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pravadija](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna/City/Pravadija.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna,Province/counties~Varna/Provadiya/Pravadija|Pravadija]] 
 
-### [Pravadija.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna/City/Pravadija.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna,Province/counties~Varna/Provadiya/Pravadija.public|Pravadija.public]] 
 
-### [Pravadija.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna/City/Pravadija.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna,Province/counties~Varna/Provadiya/Pravadija.internal|Pravadija.internal]] 
 
-### [Pravadija.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna/City/Pravadija.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna,Province/counties~Varna/Provadiya/Pravadija.protect|Pravadija.protect]] 
 
-### [Pravadija.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna/City/Pravadija.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna,Province/counties~Varna/Provadiya/Pravadija.private|Pravadija.private]] 
 
-### [Pravadija.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna/City/Pravadija.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna,Province/counties~Varna/Provadiya/Pravadija.personal|Pravadija.personal]] 
 
-### [Pravadija.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna/City/Pravadija.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Varna,Province/counties~Varna/Provadiya/Pravadija.secret|Pravadija.secret]] 
 

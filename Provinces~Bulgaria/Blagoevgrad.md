@@ -40,17 +40,17 @@ markerFolder: ./Blagoevgrad/
 
 ## Confidential Links & Embeds: 
 
-### [Blagoevgrad](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Blagoevgrad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Blagoevgrad|Blagoevgrad]] 
 
-### [Blagoevgrad.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Blagoevgrad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Blagoevgrad.public|Blagoevgrad.public]] 
 
-### [Blagoevgrad.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Blagoevgrad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Blagoevgrad.internal|Blagoevgrad.internal]] 
 
-### [Blagoevgrad.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Blagoevgrad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Blagoevgrad.protect|Blagoevgrad.protect]] 
 
-### [Blagoevgrad.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Blagoevgrad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Blagoevgrad.private|Blagoevgrad.private]] 
 
-### [Blagoevgrad.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Blagoevgrad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Blagoevgrad.personal|Blagoevgrad.personal]] 
 
-### [Blagoevgrad.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Blagoevgrad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Blagoevgrad.secret|Blagoevgrad.secret]] 
 

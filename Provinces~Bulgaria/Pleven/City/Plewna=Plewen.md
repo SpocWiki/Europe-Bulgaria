@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33408
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.62
+dv_has_place_latitude: 43.42
+dv_name: Plewna=Plewen
+dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.62] 
-[has_place_latitude::43.42] 
-[name::Plewna=Plewen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Bulgaria]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Plewna=Plewen](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven/City/Plewna=Plewen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven/City/Plewna=Plewen|Plewna=Plewen]] 
 
-### [Plewna=Plewen.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven/City/Plewna=Plewen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven/City/Plewna=Plewen.public|Plewna=Plewen.public]] 
 
-### [Plewna=Plewen.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven/City/Plewna=Plewen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven/City/Plewna=Plewen.internal|Plewna=Plewen.internal]] 
 
-### [Plewna=Plewen.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven/City/Plewna=Plewen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven/City/Plewna=Plewen.protect|Plewna=Plewen.protect]] 
 
-### [Plewna=Plewen.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven/City/Plewna=Plewen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven/City/Plewna=Plewen.private|Plewna=Plewen.private]] 
 
-### [Plewna=Plewen.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven/City/Plewna=Plewen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven/City/Plewna=Plewen.personal|Plewna=Plewen.personal]] 
 
-### [Plewna=Plewen.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven/City/Plewna=Plewen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Pleven/City/Plewna=Plewen.secret|Plewna=Plewen.secret]] 
 

@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 29052
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 27.9
+dv_has_place_latitude: 43.57
+dv_name: Bazardjik
+dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::27.9] 
-[has_place_latitude::43.57] 
-[name::Bazardjik] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Bulgaria]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bazardjik](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Bazardjik.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Bazardjik|Bazardjik]] 
 
-### [Bazardjik.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Bazardjik.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Bazardjik.public|Bazardjik.public]] 
 
-### [Bazardjik.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Bazardjik.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Bazardjik.internal|Bazardjik.internal]] 
 
-### [Bazardjik.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Bazardjik.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Bazardjik.protect|Bazardjik.protect]] 
 
-### [Bazardjik.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Bazardjik.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Bazardjik.private|Bazardjik.private]] 
 
-### [Bazardjik.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Bazardjik.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Bazardjik.personal|Bazardjik.personal]] 
 
-### [Bazardjik.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Bazardjik.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Dobrich/City/Bazardjik.secret|Bazardjik.secret]] 
 

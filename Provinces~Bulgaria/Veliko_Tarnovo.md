@@ -41,17 +41,17 @@ markerFolder: ./Veliko_Tarnovo/
 
 ## Confidential Links & Embeds: 
 
-### [Veliko_Tarnovo](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Veliko_Tarnovo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Veliko_Tarnovo|Veliko_Tarnovo]] 
 
-### [Veliko_Tarnovo.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Veliko_Tarnovo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Veliko_Tarnovo.public|Veliko_Tarnovo.public]] 
 
-### [Veliko_Tarnovo.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Veliko_Tarnovo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Veliko_Tarnovo.internal|Veliko_Tarnovo.internal]] 
 
-### [Veliko_Tarnovo.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Veliko_Tarnovo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Veliko_Tarnovo.protect|Veliko_Tarnovo.protect]] 
 
-### [Veliko_Tarnovo.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Veliko_Tarnovo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Veliko_Tarnovo.private|Veliko_Tarnovo.private]] 
 
-### [Veliko_Tarnovo.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Veliko_Tarnovo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Veliko_Tarnovo.personal|Veliko_Tarnovo.personal]] 
 
-### [Veliko_Tarnovo.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Veliko_Tarnovo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Veliko_Tarnovo.secret|Veliko_Tarnovo.secret]] 
 

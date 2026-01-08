@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33353
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 24.75
+dv_has_place_latitude: 42.15
+dv_name: Philippopel=Plovdir
+dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::24.75] 
-[has_place_latitude::42.15] 
-[name::Philippopel=Plovdir] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Bulgaria]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Philippopel=Plovdir](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir|Philippopel=Plovdir]] 
 
-### [Philippopel=Plovdir.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.public|Philippopel=Plovdir.public]] 
 
-### [Philippopel=Plovdir.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.internal|Philippopel=Plovdir.internal]] 
 
-### [Philippopel=Plovdir.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.protect|Philippopel=Plovdir.protect]] 
 
-### [Philippopel=Plovdir.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.private|Philippopel=Plovdir.private]] 
 
-### [Philippopel=Plovdir.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.personal|Philippopel=Plovdir.personal]] 
 
-### [Philippopel=Plovdir.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Plovdiv/City/Philippopel=Plovdir.secret|Philippopel=Plovdir.secret]] 
 

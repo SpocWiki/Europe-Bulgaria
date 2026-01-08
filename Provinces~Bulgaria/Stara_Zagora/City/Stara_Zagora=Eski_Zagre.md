@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 34519
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 25.63
+dv_has_place_latitude: 42.42
+dv_name: Stara Zagora=Eski Zagre
+dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::25.63] 
-[has_place_latitude::42.42] 
-[name::Stara Zagora=Eski Zagre] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Bulgaria]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stara_Zagora=Eski_Zagre](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Stara_Zagora=Eski_Zagre.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Stara_Zagora=Eski_Zagre|Stara_Zagora=Eski_Zagre]] 
 
-### [Stara_Zagora=Eski_Zagre.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Stara_Zagora=Eski_Zagre.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Stara_Zagora=Eski_Zagre.public|Stara_Zagora=Eski_Zagre.public]] 
 
-### [Stara_Zagora=Eski_Zagre.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Stara_Zagora=Eski_Zagre.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Stara_Zagora=Eski_Zagre.internal|Stara_Zagora=Eski_Zagre.internal]] 
 
-### [Stara_Zagora=Eski_Zagre.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Stara_Zagora=Eski_Zagre.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Stara_Zagora=Eski_Zagre.protect|Stara_Zagora=Eski_Zagre.protect]] 
 
-### [Stara_Zagora=Eski_Zagre.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Stara_Zagora=Eski_Zagre.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Stara_Zagora=Eski_Zagre.private|Stara_Zagora=Eski_Zagre.private]] 
 
-### [Stara_Zagora=Eski_Zagre.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Stara_Zagora=Eski_Zagre.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Stara_Zagora=Eski_Zagre.personal|Stara_Zagora=Eski_Zagre.personal]] 
 
-### [Stara_Zagora=Eski_Zagre.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Stara_Zagora=Eski_Zagre.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Stara_Zagora/City/Stara_Zagora=Eski_Zagre.secret|Stara_Zagora=Eski_Zagre.secret]] 
 

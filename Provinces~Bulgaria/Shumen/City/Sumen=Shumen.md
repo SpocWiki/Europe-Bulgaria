@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34666
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 26.95
+dv_has_place_latitude: 43.28
+dv_name: Sumen=Shumen
+dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::26.95] 
-[has_place_latitude::43.28] 
-[name::Sumen=Shumen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Bulgaria]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sumen=Shumen](/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen|Sumen=Shumen]] 
 
-### [Sumen=Shumen.public](/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.public|Sumen=Shumen.public]] 
 
-### [Sumen=Shumen.internal](/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.internal|Sumen=Shumen.internal]] 
 
-### [Sumen=Shumen.protect](/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.protect|Sumen=Shumen.protect]] 
 
-### [Sumen=Shumen.private](/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.private|Sumen=Shumen.private]] 
 
-### [Sumen=Shumen.personal](/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.personal|Sumen=Shumen.personal]] 
 
-### [Sumen=Shumen.secret](/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Provinces~Bulgaria/Shumen/City/Sumen=Shumen.secret|Sumen=Shumen.secret]] 
 

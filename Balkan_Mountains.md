@@ -40,6 +40,25 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Balkan%20Mountai
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Balkangebirge%20Balkan%20topo%20de.jpg
 Commons_category: Stara planina
 P8189: 987007282303105200
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Balkan_Mountains,170427|WD~Balkan_Mountains,170427]]"
+    - "[Balkan_Mountains](/_Standards/Earth/Continent/Europe/Europe~East/Balkan_Mountains.md)"
+    - "[Balkan_Mountains.public](/_public/Earth/Continent/Europe/Europe~East/Balkan_Mountains.public.md)"
+    - "[Balkan_Mountains.internal](/_internal/Earth/Continent/Europe/Europe~East/Balkan_Mountains.internal.md)"
+    - "[Balkan_Mountains.protect](/_protect/Earth/Continent/Europe/Europe~East/Balkan_Mountains.protect.md)"
+    - "[Balkan_Mountains.private](/_private/Earth/Continent/Europe/Europe~East/Balkan_Mountains.private.md)"
+    - "[Balkan_Mountains.personal](/_personal/Earth/Continent/Europe/Europe~East/Balkan_Mountains.personal.md)"
+    - "[Balkan_Mountains.secret](/_secret/Earth/Continent/Europe/Europe~East/Balkan_Mountains.secret.md)"
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Balkan_Mountains,170427|WD~Balkan_Mountains,170427]]"
+  - "[Balkan_Mountains](/_Standards/Earth/Continent/Europe/Europe~East/Balkan_Mountains.md)"
+  - "[Balkan_Mountains.public](/_public/Earth/Continent/Europe/Europe~East/Balkan_Mountains.public.md)"
+  - "[Balkan_Mountains.internal](/_internal/Earth/Continent/Europe/Europe~East/Balkan_Mountains.internal.md)"
+  - "[Balkan_Mountains.protect](/_protect/Earth/Continent/Europe/Europe~East/Balkan_Mountains.protect.md)"
+  - "[Balkan_Mountains.private](/_private/Earth/Continent/Europe/Europe~East/Balkan_Mountains.private.md)"
+  - "[Balkan_Mountains.personal](/_personal/Earth/Continent/Europe/Europe~East/Balkan_Mountains.personal.md)"
+  - "[Balkan_Mountains.secret](/_secret/Earth/Continent/Europe/Europe~East/Balkan_Mountains.secret.md)"
 ---
 
 # [[Balkan_Mountains]] 
@@ -104,17 +123,17 @@ minZoom: 6
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Balkan_Mountains](/_Standards/Earth/Continent/Europe/Europe~East/Balkan_Mountains.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/Balkan_Mountains|Balkan_Mountains]] 
 
-### #is_/same_as :: [Balkan_Mountains.public](/_public/Earth/Continent/Europe/Europe~East/Balkan_Mountains.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Bulgaria/Balkan_Mountains.public|Balkan_Mountains.public]] 
 
-### #is_/same_as :: [Balkan_Mountains.internal](/_internal/Earth/Continent/Europe/Europe~East/Balkan_Mountains.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/Balkan_Mountains.internal|Balkan_Mountains.internal]] 
 
-### #is_/same_as :: [Balkan_Mountains.protect](/_protect/Earth/Continent/Europe/Europe~East/Balkan_Mountains.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/Balkan_Mountains.protect|Balkan_Mountains.protect]] 
 
-### #is_/same_as :: [Balkan_Mountains.private](/_private/Earth/Continent/Europe/Europe~East/Balkan_Mountains.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Bulgaria/Balkan_Mountains.private|Balkan_Mountains.private]] 
 
-### #is_/same_as :: [Balkan_Mountains.personal](/_personal/Earth/Continent/Europe/Europe~East/Balkan_Mountains.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/Balkan_Mountains.personal|Balkan_Mountains.personal]] 
 
-### #is_/same_as :: [Balkan_Mountains.secret](/_secret/Earth/Continent/Europe/Europe~East/Balkan_Mountains.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/Balkan_Mountains.secret|Balkan_Mountains.secret]] 
 

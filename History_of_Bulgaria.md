@@ -10,11 +10,14 @@ country: "[[_Standards/WikiData/WD~Bulgaria,219]]"
 Commons_category: History of Bulgaria
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cult%20scene%20Ovcharovo%20tell.jpg
 Dewey_Decimal_Classification: "949.9"
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Bulgaria,7800]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Bulgaria,7800]]"
 ---
 
 # [[History_of_Bulgaria]] 
 
-#is_/same_as :: [[WD~History_of_Bulgaria,7800]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -40,4 +43,21 @@ Dewey_Decimal_Classification: "949.9"
 > After World War II, Bulgaria became a Communist state, and the General Secretary of the Bulgarian Communist Party, Todor Zhivkov, served for a period of 35 years, where there was relatively rapid economic growth. The Communist system collapsed at the eve of the 1990s, and several problems in the 1990s decreased the economic development of Bulgaria's agricultural and other industries. A period of relative stabilization began with the election of Simeon Saxe-Coburg-Gotha as prime minister in 2001. Bulgaria joined NATO in 2004 and the European Union in 2007.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Bulgaria) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/History_of_Bulgaria|History_of_Bulgaria]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Bulgaria/History_of_Bulgaria.public|History_of_Bulgaria.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/History_of_Bulgaria.internal|History_of_Bulgaria.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/History_of_Bulgaria.protect|History_of_Bulgaria.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Bulgaria/History_of_Bulgaria.private|History_of_Bulgaria.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/History_of_Bulgaria.personal|History_of_Bulgaria.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/History_of_Bulgaria.secret|History_of_Bulgaria.secret]] 
 
