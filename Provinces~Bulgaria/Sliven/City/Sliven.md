@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.32
 dv_has_place_latitude: 42.67
-dv_name: Sliven
+dv_has_name_: Sliven
 dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  

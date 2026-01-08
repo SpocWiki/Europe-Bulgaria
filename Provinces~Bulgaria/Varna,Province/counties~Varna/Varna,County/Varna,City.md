@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.92
 dv_has_place_latitude: 43.2
-dv_name: Varna
+dv_has_name_: Varna
 dv_Country: "[[../../../../../Bulgaria]]"
 dv_is_:
   same_as: "[[_Standards/WikiData/WD~Varna,6506]]"

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.63
 dv_has_place_latitude: 42.42
-dv_name: Stara Zagora=Eski Zagre
+dv_has_name_: Stara Zagora=Eski Zagre
 dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  

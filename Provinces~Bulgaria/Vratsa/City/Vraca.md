@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.55
 dv_has_place_latitude: 43.2
-dv_name: Vraca
+dv_has_name_: Vraca
 dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  

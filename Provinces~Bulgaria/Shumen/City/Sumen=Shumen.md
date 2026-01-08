@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.95
 dv_has_place_latitude: 43.28
-dv_name: Sumen=Shumen
+dv_has_name_: Sumen=Shumen
 dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.97
 dv_has_place_latitude: 43.73
-dv_name: Rahove
+dv_has_name_: Rahove
 dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.4
 dv_has_place_latitude: 42.62
-dv_name: Kazanlik
+dv_has_name_: Kazanlik
 dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  

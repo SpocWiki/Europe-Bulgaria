@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.32
 dv_has_place_latitude: 42.18
-dv_name: Pazardjik
+dv_has_name_: Pazardjik
 dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  

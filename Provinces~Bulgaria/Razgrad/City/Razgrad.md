@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.52
 dv_has_place_latitude: 43.53
-dv_name: Razgrad
+dv_has_name_: Razgrad
 dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  

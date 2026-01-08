@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.32
 dv_has_place_latitude: 42.88
-dv_name: Gabrovo
+dv_has_name_: Gabrovo
 dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  

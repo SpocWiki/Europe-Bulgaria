@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.42
 dv_has_place_latitude: 43.1
-dv_name: Osman Bazar
+dv_has_name_: Osman Bazar
 dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  

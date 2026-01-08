@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 25.35
 dv_has_place_latitude: 43.62
-dv_name: Sistovo=Swichtov
+dv_has_name_: Sistovo=Swichtov
 dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  

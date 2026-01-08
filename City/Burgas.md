@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.82
 dv_has_place_latitude: 42.5
-dv_name: Burgas
+dv_has_name_: Burgas
 dv_Country: "[[../../Bulgaria]]"
 ---
 #is_a_/Place  

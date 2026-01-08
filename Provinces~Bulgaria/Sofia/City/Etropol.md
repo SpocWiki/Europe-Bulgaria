@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24
 dv_has_place_latitude: 42.83
-dv_name: Etropol
+dv_has_name_: Etropol
 dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  

@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.68
 dv_has_place_latitude: 42.28
-dv_name: Kustendjil
+dv_has_name_: Kustendjil
 dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  

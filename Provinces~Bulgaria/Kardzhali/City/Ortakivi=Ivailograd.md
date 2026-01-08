@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 26.12
 dv_has_place_latitude: 41.55
-dv_name: Ortakivi=Ivailograd
+dv_has_name_: Ortakivi=Ivailograd
 dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  

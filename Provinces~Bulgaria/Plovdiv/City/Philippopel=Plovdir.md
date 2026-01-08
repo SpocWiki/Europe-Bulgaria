@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 24.75
 dv_has_place_latitude: 42.15
-dv_name: Philippopel=Plovdir
+dv_has_name_: Philippopel=Plovdir
 dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  

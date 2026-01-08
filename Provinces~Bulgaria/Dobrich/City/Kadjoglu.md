@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.83
 dv_has_place_latitude: 43.57
-dv_name: Kadjoglu
+dv_has_name_: Kadjoglu
 dv_Country: "[[../../../../Romania]]"
 ---
 #is_a_/Place  

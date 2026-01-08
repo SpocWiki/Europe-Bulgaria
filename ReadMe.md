@@ -41,15 +41,13 @@ dv_ISO4217-currency_country_name: BULGARIA
 dv_Telephone: 359
 dv_Global: true
 dv_Global_Name: World
-dv_name: Bulgaria
-dv_name-en:
-  - Bulgaria
-  - Bulgaria
-dv_name-es: Bulgaria
-dv_name-fr: Bulgarie
-dv_name-cn: 保加利亚
-dv_name-ar: بلغاريا
-dv_name-ru: Болгария
+dv_has_name_: Bulgaria
+dv_has_name_en: Bulgaria
+dv_has_name_es: Bulgaria
+dv_has_name_fr: Bulgarie
+dv_has_name_cn: 保加利亚
+dv_has_name_ar: بلغاريا
+dv_has_name_ru: Болгария
 dv_CLDR_display_name: Bulgaria
 dv_UNTERM_English: Bulgaria
 dv_UNTERM_English_Formal: the Republic of Bulgaria
@@ -86,7 +84,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 100
 dv_ISO2: BG
 dv_ISO3: BGR
-dv_name-de: Bulgarien
+dv_has_name_de: Bulgarien
 dv_Area-Total: 110994
 dv_Area-Land: 110550
 dv_Continent: "[[../../../Europe]]"
@@ -112,12 +110,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Bulgaria ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Bulgaria ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -179,8 +177,8 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-[name-en::Bulgaria] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Bulgaria] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

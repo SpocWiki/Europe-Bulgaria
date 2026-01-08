@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.88
 dv_has_place_latitude: 44.02
-dv_name: Vidin
+dv_has_name_: Vidin
 dv_Country: "[[../../../../Bulgaria]]"
 ---
 #is_a_/Place  
