@@ -193,7 +193,7 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sofiya%20l
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 23.32
 dv_has_place_latitude: 42.68
-dv_has_name_: Sofia
+dv_has_name: Sofia
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Sofia,472|WD~Sofia,472]]"
 dv_is_same_as: "[[../../../../../../../../WikiData/WD~Sofia,472|WD~Sofia,472]]"
@@ -205,7 +205,7 @@ dv_is_same_as: "[[../../../../../../../../WikiData/WD~Sofia,472|WD~Sofia,472]]"
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Bulgaria]]  
 [StateId::] 
