@@ -1,6 +1,6 @@
 ---
 dv_has_:
-  capital: "[[Bulgaria/Provinces~Bulgaria/Sofia|Sofia]]"
+  capital: "[[Provinces~Bulgaria/Sofia|Sofia]]"
   name_:
     ab: Болгариа
     ace: Bulgaria
@@ -363,7 +363,7 @@ dv_UNTERM_Chinese_Formal: 保加利亚共和国
 dv_UNTERM_French_Formal: la République de Bulgarie
 dv_UNTERM_Russian: Болгария
 dv_UNTERM_Russian_Formal: Республика Болгария
-dv_Region_Name: "[[../../Europe|Europe]]"
+dv_Region_Name: "[[../../../Europe|Europe]]"
 dv_Intermediate_Region_Name: "[[Bulgaria]]"
 dv_Sub-region_Name: "[[Eastern Europe]]"
 dv_Region: 150
@@ -388,7 +388,7 @@ dv_ISO2: BG
 dv_ISO3: BGR
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]"
+    - "[[../../../../../WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]"
     - "[[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria|Bulgaria]]"
     - "[[/_public/Earth/Continent/Europe/Europe~East/Bulgaria.public|Bulgaria.public]]"
     - "[[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria.internal|Bulgaria.internal]]"
@@ -399,20 +399,20 @@ dv_is_:
 dv_has_name_de: Bulgarien
 dv_Area-Total: 110994
 dv_Area-Land: 110550
-dv_has_place_continent: "[[../../Europe|Europe]]"
+dv_has_place_continent: "[[../../../Europe|Europe]]"
 dv_VehicleCode: BG
-dv_Capital: "[[./Bulgaria/Counties/Sofia|Sofia]]"
+dv_Capital: "[[Counties/Sofia|Sofia]]"
 dv_Alcohol-l: 12.4
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 25.3029
 dv_has_place_latitude: 42.9342
 dv_has_number_of_people: 6795803
 dv_has_population_density: \-
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Bulgaria
-dv_has_capital: "[[Bulgaria/Provinces~Bulgaria/Sofia|Sofia]]"
+dv_has_capital: "[[Provinces~Bulgaria/Sofia|Sofia]]"
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]"
+  - "[[../../../../../WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]"
   - "[[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria|Bulgaria]]"
   - "[[/_public/Earth/Continent/Europe/Europe~East/Bulgaria.public|Bulgaria.public]]"
   - "[[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria.internal|Bulgaria.internal]]"
@@ -710,7 +710,7 @@ demonym:
   - bulgari
 described_by_source:
   - "[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]"
@@ -859,7 +859,7 @@ maritime_identification_digits: 207
 marriageable_age: 18
 maximum_temperature_record: 45.2
 member_of:
-  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
   - "[[/_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]"
   - "[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]"
   - "[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]"
@@ -1071,7 +1071,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Bulgaria/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1092,7 +1092,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Bulgaria_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1119,7 +1119,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Bulgaria.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Bulgaria-complete.mp3|Anthem-Bulgaria-complete.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Bulgaria-complete.mp3|Anthem-Bulgaria-complete.mp3]]
 ![[Flag_of_Bulgaria.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
@@ -1147,7 +1147,7 @@ has_place_latitude = `=this.dv_has_place_latitude`
 > was the Karanovo culture (6,500 BC). 
 > In the 6th to 3rd century BC, 
 > the region was a battleground for ancient Thracians, Persians, Celts and Macedonians; 
-> stability came when the [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395|Roman Empire]] conquered the region in AD 45. 
+> stability came when the [[../../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395|Roman Empire]] conquered the region in AD 45. 
 > 
 > After the Roman state splintered, tribal invasions in the region resumed. 
 > Around the 6th century, these territories were settled by the early Slavs. 
@@ -1155,7 +1155,7 @@ has_place_latitude = `=this.dv_has_place_latitude`
 > and permanently invaded the Balkans in the late 7th century. 
 > 
 > They established the First Bulgarian Empire, 
-> victoriously recognised by treaty in 681 AD by the [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0395-Byzantine_Empire|Byzantine Empire]]]. 
+> victoriously recognised by treaty in 681 AD by the [[../../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0395-Byzantine_Empire|Byzantine Empire]]]. 
 > It dominated most of the Balkans 
 > and significantly influenced Slavic cultures by developing the Cyrillic script. 
 > 
@@ -1167,7 +1167,7 @@ has_place_latitude = `=this.dv_has_place_latitude`
 > the empire disintegrated and in 1396 fell under Ottoman rule for nearly five centuries.
 >
 > The Russo-Turkish War of 1877–78 resulted in the formation of the third and current Bulgarian state, 
-> which declared independence from the [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire-1922|Ottoman Empire]] in 1908. 
+> which declared independence from the [[../../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire-1922|Ottoman Empire]] in 1908. 
 > Many ethnic Bulgarians were left outside the new nation's borders, 
 > which stoked irredentist sentiments that led to several conflicts with its neighbours 
 > and alliances with Germany in both world wars. 
@@ -1186,7 +1186,7 @@ has_place_latitude = `=this.dv_has_place_latitude`
 > The country has been influenced by its role as a transit country for natural gas and oil pipelines, 
 > as well as its strategic location on the Black Sea. 
 > Bulgaria's foreign relations have been shaped by its geographical location 
-> and its modern membership in the [[../EU(European_Union)|European Union]] and [[../../../../Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO|NATO]].
+> and its modern membership in the [[../../EU(European_Union)|European Union]] and [[../../../../../Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO|NATO]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bulgaria) 
 
