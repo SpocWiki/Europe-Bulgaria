@@ -1,38 +1,340 @@
 ---
-aliases:
-  - Bulgaria
-  - Bulgarie
-  - بلغاريا
-  - 保加利亚
-  - Болгария
-  - the Republic of Bulgaria
-  - la República de Bulgaria
-  - ReadMe
-location:
-  - 42.9342
-  - 25.3029
-type: Country
-tags:
-  - geo/Country
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses:
-  - Country
-publish: true
-title: Bulgaria
-linkTitle: ""
-keywords: ""
-layout: ""
-draft: false
-publishDate: ""
-expiryDate: ""
-Languages:
-  - bg
-  - tr-BG
-  - rom
+dv_has_:
+  capital: "[[Bulgaria/Provinces~Bulgaria/Sofia|Sofia]]"
+  name_:
+    ab: Болгариа
+    ace: Bulgaria
+    ady: Булгарие
+    aeb_arab: بلغاريا
+    af: Bulgarye
+    am: ቡልጋሪያ
+    ami: Bulgaria
+    an: Bulgaria
+    ang: Pulgaraland
+    ann: Buligaria
+    anp: बल्गारिया
+    ar: بلغاريا
+    arc: ܒܘܠܓܐܪܝܐ
+    ary: بلغاريا
+    arz: بلجاريا
+    ast: Bulgaria
+    av: Болгария
+    avk: Balgaria
+    awa: बुल्गारिया
+    ay: Bulkariya
+    az: Bolqarıstan
+    azb: بولغاریستان
+    ba: Болгария
+    ban: Bulgaria
+    bar: Buigarien
+    bcl: Bulgarya
+    be: Балгарыя
+    be_tarask: Баўгарыя
+    bew: Bulgari
+    bg: България
+    bgn: بلگاریا
+    bho: बुल्गारिया
+    bi: Bulgaria
+    blk: ဗူဂေးရီးယားခမ်းထီ
+    bm: Bulgaria
+    bn: বুলগেরিয়া
+    bo: པུ་ར་ག་རི་ཡ།
+    bpy: বুলগেরিয়া
+    br: Bulgaria
+    bs: Bugarska
+    bxr: Болгар
+    ca: Bulgària
+    cbk_zam: Bulgaria
+    cdo: Bulgaria
+    ce: Болгари
+    ceb: Bulgaria
+    ch: Bulgaria
+    chr: ᏊᎵᎨᎵᎠ
+    ckb: بولگاریا
+    co: Bulgaria
+    crh: Bulğaristan
+    crh_latn: Bulğaristan
+    crh-ro: Bulgariye
+    cs: Bulharsko
+    csb: Bùlgarskô
+    cu: Блъгарїꙗ
+    cv: Тăнайçи Пăлхарĕ
+    cy: Bwlgaria
+    da: Bulgarien
+    dag: Bulgaria
+    de: Bulgarien
+    de-at: Bulgarien
+    de_ch: Bulgarien
+    din: Bulgaria
+    diq: Bulğarıstan
+    dsb: Bulgaŕska
+    dty: बुल्गेरिया
+    dv: ބަލްގޭރިއާ
+    dz: བཱུལ་གཱ་རི་ཡ།
+    ee: Bulgaria
+    el: Βουλγαρία
+    eml: Bulgarî
+    en: Bulgaria
+    en_ca: Bulgaria
+    en_gb: Bulgaria
+    eo: Bulgario
+    es: Bulgaria
+    et: Bulgaaria
+    eu: Bulgaria
+    ext: Bulgária
+    fa: بلغارستان
+    ff: Bulgariya
+    fi: Bulgaria
+    fo: Bulgaria
+    fr: Bulgarie
+    frp: Bulgarie
+    frr: Bulgarien
+    fur: Bulgarie
+    fy: Bulgarije
+    ga: an Bhulgáir
+    gag: Bulgariya
+    gan: 保加利亞
+    gcr: Bilgari
+    gd: Bulgàiria
+    gl: Bulgaria
+    glk: بۊلغارستان
+    gn: Vugaria
+    gom: बल्गेरिया
+    gom-deva: बल्गेरिया
+    gom_latn: Bulgaria
+    got: 𐌱𐌿𐌻𐌲𐌰𐍂𐌹𐌰
+    gpe: Bulgaria
+    gsw: Bulgarie
+    gu: બલ્ગેરિયા
+    gv: Yn Vulgeyr
+    ha: Bulgairiya
+    hak: Bulgaria
+    haw: Pulukalia
+    he: בולגריה
+    hi: बुल्गारिया
+    hif: Bulgaria
+    hr: Bugarska
+    hsb: Bołharska
+    ht: Bilgari
+    hu: Bulgária
+    hy: Բուլղարիա
+    hyw: Պուլկարիա
+    ia: Bulgaria
+    iba: Bulgaria
+    id: Bulgaria
+    ie: Bulgaria
+    ig: Bulgaria
+    ilo: Bulgaria
+    inh: Болгари
+    io: Bulgaria
+    is: Búlgaría
+    it: Bulgaria
+    ja: ブルガリア
+    jam: Bulgieria
+    jbo: bylgAri,as
+    jv: Bulgari
+    ka: ბულგარეთი
+    kaa: Bolgariya
+    kab: Bulgarya
+    kbd: Болгариэ
+    kbp: Puligari
+    kcg: Buli̱gariya
+    kea: Bulgária
+    kg: Balgaria
+    kge: Bulgaria
+    ki: Bocyugo
+    kk: Болгария
+    kl: Bulgaria
+    km: ប៊ុលហ្ការី
+    kn: ಝಓಕ್ವಿನ್ಗ್
+    ko: 불가리아
+    koi: Бӧлгария
+    ko-kp: 벌가리아
+    krc: Болгария
+    ks: بُلغاریہ
+    ksh: Bulgarije
+    ku: Bulgaristan
+    kv: Болгария
+    kw: Bulgari
+    ky: Болгария
+    la: Bulgaria
+    lad: Bulgaria
+    lb: Bulgarien
+    lbe: Булгъария
+    lez: Болгария
+    lfn: Balgaria
+    lg: Bulgaria
+    li: Bölgarije
+    lij: Bulgarîa
+    liv: Bulgārij
+    lld: Bulgaria
+    lmo: Bülgaria
+    ln: Bulgaria
+    lo: ປະເທດບູນກາລີ
+    lrc: بلغارستان
+    lt: Bulgarija
+    ltg: Bulgareja
+    lv: Bulgārija
+    lzh: 保加利亞
+    mad: Bulgaria
+    mai: बुल्गेरिया
+    map_bms: Bulgaria
+    mdf: Болгария
+    mg: Biolgaria
+    mhr: Болгарий
+    mi: Purukāria
+    min: Bulgaria
+    mk: Бугарија
+    ml: ബൾഗേറിയ
+    mn: Болгар
+    mni: ꯕꯜꯒꯦꯔꯤꯌꯥ
+    mo: Булгария
+    mr: बल्गेरिया
+    mrj: Болгари
+    ms: Bulgaria
+    ms_arab: بولݢاريا
+    mt: Bulgarija
+    mwl: Bulgária
+    my: ဘူလ်ဂေးရီးယားနိုင်ငံ
+    myv: Болгария Мастор
+    mzn: بلغارستون
+    na: Borgeriya
+    nah: Bulgaria
+    nan: Bulgaria
+    nap: Bulgaria
+    nb: Bulgaria
+    nds: Bulgarien
+    nds_nl: Bulgarije
+    ne: बुल्गेरिया
+    new: बुल्गेरिया
+    nl: Bulgarije
+    nn: Bulgaria
+    nov: Bulgaria
+    nrm: Bulgarie
+    nso: Bulgaria
+    nv: Ditsʼozí Daʼalzhishii Bikéyah
+    oc: Bulgaria
+    olo: Bolguarii
+    om: Bulgeeriyaa
+    or: ବୁଲଗାରିଆ
+    os: Болгари
+    pa: ਬਲਜੈਰੀਆ
+    pag: Bulgariya
+    pam: Bulgaria
+    pap: Bulgaria
+    pcd: Bulgarie
+    pdc: Bulgarien
+    pfl: Bulgarije
+    pi: बुल्गारिया
+    pih: Bulgeriya
+    pl: Bułgaria
+    pms: Bulgarìa
+    pnb: بلغاریا
+    pnt: Βουλγαρία
+    ps: بلغاریا
+    pt: Bulgária
+    pt_br: Bulgária
+    qu: Bulgarya
+    rm: Bulgaria
+    rmy: Bulgariya
+    rn: Bulgaria
+    ro: Bulgaria
+    roa-tara: Bulgarie
+    ru: Болгария
+    rue: Булгарія
+    rup: Vurgaria
+    rw: Bulugariya
+    sa: बुल्गारिया
+    sah: Болгария
+    sat: ᱵᱩᱞᱜᱮᱨᱤᱭᱟ
+    sc: Bulgaria
+    scn: Bulgarìa
+    sco: Bulgarie
+    sd: بلغاريه
+    se: Bulgaria
+    sg: Bulugarïi
+    sgs: Bulgarėjė
+    sh: Bugarska
+    shi: Blɣariya
+    shn: မိူင်းပူႇၵႃႇရီႇယႃႇ
+    si: බල්ගේරියාව
+    sk: Bulharsko
+    skr: بلغاریہ
+    sl: Bolgarija
+    sm: Bultalia
+    smj: Bulgárra
+    smn: Bulgaria
+    sms: Bulgaria
+    sn: Bulgaria
+    so: Bulgaria
+    sq: Bullgaria
+    sr: Бугарска
+    sr_ec: Бугарска
+    sr_el: Bugarska
+    srn: Bulgarikondre
+    ss: IBhulgariya
+    st: Bulgaria
+    stq: Bulgarien
+    su: Bulgaria
+    sv: Bulgarien
+    sw: Bulgaria
+    szl: Bułgaryjo
+    szy: Bulgaria
+    ta: பல்காரியா
+    tay: Bulgaria
+    te: బల్గేరియా
+    tet: Bulgária
+    tg: Булғористон
+    th: ประเทศบัลแกเรีย
+    tk: Bolgariýa
+    tl: Bulgarya
+    tly: Bolqarıston
+    to: Pulukalia
+    tok: ma Pokasi
+    tpi: Balgeria
+    tr: Bulgaristan
+    trv: Bulgaria
+    ts: Bulgaria
+    tt: Болгария
+    tum: Bulgaria
+    tw: Bulgaria
+    udm: Болгария
+    ug: بۇلغارىيە
+    uk: Болгарія
+    ur: بلغاریہ
+    uz: Bolgariya
+    vec: Bulgaria
+    vep: Bolgarii
+    vi: Bulgaria
+    vls: Bulgareye
+    vo: Bulgarän
+    vro: Bulgaaria
+    wa: Bulgåreye
+    war: Bulgarya
+    wo: Bulgaari
+    wuu: 保加利亚
+    xal: Болгармудин Орн
+    xh: IBulgariya
+    xmf: ბულგარეთი
+    yi: בולגאריע
+    yo: Bùlgáríà
+    yue: 保加利亞
+    za: Bulgaria
+    zea: Bulharije
+    zgh: ⴱⵍⵖⴰⵔⵢⴰ
+    zh: 保加利亚
+    zh_cn: 保加利亚
+    zh_hans: 保加利亚
+    zh_hant: 保加利亞
+    zh_tw: 保加利亞
+    zu: IBulgariya
+  number_of_:
+    people: 6795803
+  population_:
+    density: \-
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Europe-Bulgaria
+dv_Population: shrank from 9mio in the 1990s down to 5mio in 2020 to 6.7mio in 2025.
 dv_ISO4217-currency_alphabetic: BGN
 dv_ISO4217-currency_name: Bulgarian Lev
 dv_ISO4217-currency_numeric: 975
@@ -61,8 +363,8 @@ dv_UNTERM_Chinese_Formal: 保加利亚共和国
 dv_UNTERM_French_Formal: la République de Bulgarie
 dv_UNTERM_Russian: Болгария
 dv_UNTERM_Russian_Formal: Республика Болгария
-dv_Region_Name: "[[../../../Europe]]"
-dv_Intermediate_Region_Name: "[[ReadMe]]"
+dv_Region_Name: "[[../../Europe|Europe]]"
+dv_Intermediate_Region_Name: "[[Bulgaria]]"
 dv_Sub-region_Name: "[[Eastern Europe]]"
 dv_Region: 150
 dv_Sub-region: 151
@@ -84,130 +386,824 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 100
 dv_ISO2: BG
 dv_ISO3: BGR
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]"
+    - "[[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria|Bulgaria]]"
+    - "[[/_public/Earth/Continent/Europe/Europe~East/Bulgaria.public|Bulgaria.public]]"
+    - "[[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria.internal|Bulgaria.internal]]"
+    - "[[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria.protect|Bulgaria.protect]]"
+    - "[[/_private/Earth/Continent/Europe/Europe~East/Bulgaria.private|Bulgaria.private]]"
+    - "[[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria.personal|Bulgaria.personal]]"
+    - "[[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria.secret|Bulgaria.secret]]"
 dv_has_name_de: Bulgarien
 dv_Area-Total: 110994
 dv_Area-Land: 110550
-dv_Continent: "[[../../../Europe]]"
+dv_has_place_continent: "[[../../Europe|Europe]]"
 dv_VehicleCode: BG
-dv_Capital: "[[./Bulgaria/Counties/Sofia]]"
+dv_Capital: "[[./Bulgaria/Counties/Sofia|Sofia]]"
 dv_Alcohol-l: 12.4
-dv_is_a_: "[[../../../../Geography/Place]]"
+dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 25.3029
 dv_has_place_latitude: 42.9342
+dv_has_number_of_people: 6795803
+dv_has_population_density: \-
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Bulgaria
+dv_has_capital: "[[Bulgaria/Provinces~Bulgaria/Sofia|Sofia]]"
 dv_developed_developing_countries: Developed
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]"
+  - "[[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria|Bulgaria]]"
+  - "[[/_public/Earth/Continent/Europe/Europe~East/Bulgaria.public|Bulgaria.public]]"
+  - "[[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria.internal|Bulgaria.internal]]"
+  - "[[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria.protect|Bulgaria.protect]]"
+  - "[[/_private/Earth/Continent/Europe/Europe~East/Bulgaria.private|Bulgaria.private]]"
+  - "[[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria.personal|Bulgaria.personal]]"
+  - "[[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria.secret|Bulgaria.secret]]"
+aliases:
+  - an Bhulgáir
+  - Balgaria
+  - Balgeria
+  - Bilgari
+  - Biolgaria
+  - Blɣariya
+  - Bocyugo
+  - Bolgarii
+  - Bolgarija
+  - Bolgariya
+  - Bolgariýa
+  - Bolguarii
+  - Bolqarıstan
+  - Bolqarıston
+  - Borgeriya
+  - Bołharska
+  - Bugarska
+  - Buigarien
+  - Bulgaari
+  - Bulgaaria
+  - Bulgairiya
+  - Bulgareja
+  - Bulgareye
+  - Bulgari
+  - Bulgaria
+  - Bulgarie
+  - Bulgarien
+  - Bulgarija
+  - Bulgarije
+  - Bulgarikondre
+  - Bulgario
+  - Bulgaristan
+  - Bulgariya
+  - Bulgariye
+  - Bulgarya
+  - Bulgarye
+  - Bulgarän
+  - Bulgarìa
+  - Bulgarî
+  - Bulgarîa
+  - Bulgarėjė
+  - Bulgaŕska
+  - Bulgeeriyaa
+  - Bulgeriya
+  - Bulgieria
+  - Bulgàiria
+  - Bulgària
+  - Bulgária
+  - Bulgárra
+  - Bulgåreye
+  - Bulgārij
+  - Bulgārija
+  - Bulharije
+  - Bulharsko
+  - Buligaria
+  - Buli̱gariya
+  - Bulkariya
+  - Bullgaria
+  - Bultalia
+  - Bulugariya
+  - Bulugarïi
+  - Bulğaristan
+  - Bulğarıstan
+  - Bułgaria
+  - Bułgaryjo
+  - Bwlgaria
+  - bylgAri,as
+  - Bölgarije
+  - Bùlgarskô
+  - Bùlgáríà
+  - Búlgaría
+  - Bülgaria
+  - Ditsʼozí Daʼalzhishii Bikéyah
+  - IBhulgariya
+  - IBulgariya
+  - la República de Bulgaria
+  - ma Pokasi
+  - Pulgaraland
+  - Puligari
+  - Pulukalia
+  - Purukāria
+  - the Republic of Bulgaria
+  - Vugaria
+  - Vurgaria
+  - Yn Vulgeyr
+  - Βουλγαρία
+  - Баўгарыя
+  - Балгарыя
+  - Блъгарїꙗ
+  - Болгар
+  - Болгарія
+  - Болгари
+  - Болгариа
+  - Болгарий
+  - Болгариэ
+  - Болгария
+  - Болгария Мастор
+  - Болгармудин Орн
+  - Бугарија
+  - Бугарска
+  - Булгарія
+  - Булгарие
+  - Булгария
+  - Булгъария
+  - Булғористон
+  - България
+  - Бӧлгария
+  - Тăнайçи Пăлхарĕ
+  - Բուլղարիա
+  - Պուլկարիա
+  - בולגאריע
+  - בולגריה
+  - بلجاريا
+  - بلغارستان
+  - بلغارستون
+  - بلغاريا
+  - بلغاريه
+  - بلغاریا
+  - بلغاریہ
+  - بلگاریا
+  - بولغاریستان
+  - بولگاریا
+  - بولݢاريا
+  - بُلغاریہ
+  - بۇلغارىيە
+  - بۊلغارستان
+  - ܒܘܠܓܐܪܝܐ
+  - ބަލްގޭރިއާ
+  - बल्गारिया
+  - बल्गेरिया
+  - बुल्गारिया
+  - बुल्गेरिया
+  - বুলগেরিয়া
+  - ਬਲਜੈਰੀਆ
+  - બલ્ગેરિયા
+  - ବୁଲଗାରିଆ
+  - பல்காரியா
+  - బల్గేరియా
+  - ಝಓಕ್ವಿನ್ಗ್
+  - ബൾഗേറിയ
+  - බල්ගේරියාව
+  - ประเทศบัลแกเรีย
+  - ປະເທດບູນກາລີ
+  - པུ་ར་ག་རི་ཡ།
+  - བཱུལ་གཱ་རི་ཡ།
+  - ဗူဂေးရီးယားခမ်းထီ
+  - ဘူလ်ဂေးရီးယားနိုင်ငံ
+  - မိူင်းပူႇၵႃႇရီႇယႃႇ
+  - ბულგარეთი
+  - ቡልጋሪያ
+  - ᏊᎵᎨᎵᎠ
+  - ប៊ុលហ្ការី
+  - ᱵᱩᱞᱜᱮᱨᱤᱭᱟ
+  - ⴱⵍⵖⴰⵔⵢⴰ
+  - ブルガリア
+  - 保加利亚
+  - 保加利亞
+  - ꯕꯜꯒꯦꯔꯤꯌꯥ
+  - 벌가리아
+  - 불가리아
+  - 𐌱𐌿𐌻𐌲𐌰𐍂𐌹𐌰
+has_id_wikidata: Q219
+age_of_majority: 18
+anthem: "[[/_Standards/WikiData/WD~Mila_Rodino,182115|WD~Mila_Rodino,182115]]"
+area: 110993.6
+basic_form_of_government: "[[/_Standards/WikiData/WD~parliamentary_republic,4198907|WD~parliamentary_republic,4198907]]"
+BHCL_UUID: 011cc308-763e-4aaf-8611-dcad3976bb78
+birth_rate: 8.8
+BTI_Governance_Index:
+  - 5.87
+  - 5.98
+  - 6.02
+  - 6.18
+  - 6.38
+  - 6.53
+  - 6.65
+  - 6.73
+  - 6.76
+BTI_Status_Index:
+  - 7.8
+  - 7.46
+  - 7.76
+  - 7.91
+  - 7.98
+  - 8.14
+  - 8.29
+  - 8.36
+  - 8.44
+capital: "[[/_Standards/WikiData/WD~Sofia,472|WD~Sofia,472]]"
+category_for_honorary_citizens_of_entity: "[[/_Standards/WikiData/WD~Q6609795,6609795|WD~Q6609795,6609795]]"
+central_bank: "[[/_Standards/WikiData/WD~Bulgarian_National_Bank,74687|WD~Bulgarian_National_Bank,74687]]"
+CIVICUS_Monitor_country_entry: bulgaria
+coat_of_arms: "[[/_Standards/WikiData/WD~Coat_of_arms_of_Bulgaria,173163|WD~Coat_of_arms_of_Bulgaria,173163]]"
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Bulgaria.svg
+Colon_Classification: SG--5926
+Commons_category: Bulgaria
+Commons_gallery: България
+confidential: public
+contains_the_administrative_territorial_entity:
+  - "[[/_Standards/WikiData/WD~Sliven,113120|WD~Sliven,113120]]"
+  - "[[/_Standards/WikiData/WD~Haskovo,182809|WD~Haskovo,182809]]"
+  - "[[/_Standards/WikiData/WD~Varna,183487|WD~Varna,183487]]"
+  - "[[/_Standards/WikiData/WD~Shumen,184981|WD~Shumen,184981]]"
+  - "[[/_Standards/WikiData/WD~Plovdiv,187874|WD~Plovdiv,187874]]"
+  - "[[/_Standards/WikiData/WD~Sofia,202904|WD~Sofia,202904]]"
+  - "[[/_Standards/WikiData/WD~Yambol,220736|WD~Yambol,220736]]"
+  - "[[/_Standards/WikiData/WD~Burgas,369220|WD~Burgas,369220]]"
+  - "[[/_Standards/WikiData/WD~Blagoevgrad,804311|WD~Blagoevgrad,804311]]"
+  - "[[/_Standards/WikiData/WD~Dobrich,907395|WD~Dobrich,907395]]"
+  - "[[/_Standards/WikiData/WD~Gabrovo,1007272|WD~Gabrovo,1007272]]"
+  - "[[/_Standards/WikiData/WD~Kardzhali,1104675|WD~Kardzhali,1104675]]"
+  - "[[/_Standards/WikiData/WD~Kyustendil,1112985|WD~Kyustendil,1112985]]"
+  - "[[/_Standards/WikiData/WD~Ruse,1251933|WD~Ruse,1251933]]"
+  - "[[/_Standards/WikiData/WD~Sofia_City,1585725|WD~Sofia_City,1585725]]"
+  - "[[/_Standards/WikiData/WD~Montana_Oblast,2012057|WD~Montana_Oblast,2012057]]"
+  - "[[/_Standards/WikiData/WD~Pazardzhik,2012227|WD~Pazardzhik,2012227]]"
+  - "[[/_Standards/WikiData/WD~Pernik,2012234|WD~Pernik,2012234]]"
+  - "[[/_Standards/WikiData/WD~Pleven,2012242|WD~Pleven,2012242]]"
+  - "[[/_Standards/WikiData/WD~Silistra,2012423|WD~Silistra,2012423]]"
+  - "[[/_Standards/WikiData/WD~Smolyan,2012430|WD~Smolyan,2012430]]"
+  - "[[/_Standards/WikiData/WD~Stara_Zagora,2012583|WD~Stara_Zagora,2012583]]"
+  - "[[/_Standards/WikiData/WD~Targovishte,2012589|WD~Targovishte,2012589]]"
+  - "[[/_Standards/WikiData/WD~Veliko_Tarnovo,2012621|WD~Veliko_Tarnovo,2012621]]"
+  - "[[/_Standards/WikiData/WD~Vidin,2012772|WD~Vidin,2012772]]"
+  - "[[/_Standards/WikiData/WD~Vratsa,2012785|WD~Vratsa,2012785]]"
+  - "[[/_Standards/WikiData/WD~Razgrad,2790675|WD~Razgrad,2790675]]"
+  - "[[/_Standards/WikiData/WD~Lovech,6587068|WD~Lovech,6587068]]"
+continent: "[[/_Standards/WikiData/WD~Europe,46|WD~Europe,46]]"
+coordinates_of_easternmost_point: Point(28.60926144 43.541729)
+coordinates_of_northernmost_point: Point(22.67 44.22)
+coordinates_of_southernmost_point: Point(25.28502345 41.23552689)
+coordinates_of_westernmost_point: Point(22.35998869 42.31152917)
+coordinate_location: Point(25.5 42.75)
+country: "[[/_Standards/WikiData/WD~Bulgaria,219|WD~Bulgaria,219]]"
+country_calling_code: 359
+cssclasses:
+  - Country
+culture: "[[/_Standards/WikiData/WD~culture_of_Bulgaria,2588810|WD~culture_of_Bulgaria,2588810]]"
+death_rate: 18.4
+Democracy_Index: 6.71
+demographics_of_topic: "[[/_Standards/WikiData/WD~demographics_of_Bulgaria,1145659|WD~demographics_of_Bulgaria,1145659]]"
+demonym:
+  - بلغاري
+  - búlgara
+  - бъ̀лгари
+  - бъ̀лгарин
+  - бъ̀лгарка
+  - বুলগেরীয়
+  - bulgarer
+  - Bulgarier
+  - Bulgarierin
+  - bulgaro
+  - bulgares
+  - Bulgárach
+  - בולגרי
+  - בולגרייה
+  - Bulgariano
+  - bulgara
+  - bulgare
+  - Bulgaar
+  - bulgar
+  - bulgăroaică
+  - bùlgara
+  - bùlgare
+  - bùlgari
+  - Bulgaränan
+  - بلغاري
+  - بلغارية
+  - بلغاريين
+  - بلغاريات
+  - بلغارية
+  - búlgaru
+  - búlgar
+  - Bulgarian
+  - bulgare
+  - Bulgare
+  - بلغاريون
+  - búlgars
+  - bulgari
+  - болгарин
+  - болгарка
+  - болгары
+  - bolgár
+  - bulgaro
+  - balgarsce
+  - bùlgaro
+  - bulgari
+described_by_source:
+  - "[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[/_Standards/WikiData/WD~Great_Encyclopedia__Bulgaria_,12277139|WD~Great_Encyclopedia__Bulgaria_,12277139]]"
+  - "[[/_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[/_Standards/WikiData/WD~TASS_Encyclopedia,63985075|WD~TASS_Encyclopedia,63985075]]"
+Dewey_Decimal_Classification: 2--499
+diplomatic_relation:
+  - "[[/_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]"
+  - "[[/_Standards/WikiData/WD~Uzbekistan,265|WD~Uzbekistan,265]]"
+  - "[[/_Standards/WikiData/WD~Armenia,399|WD~Armenia,399]]"
+  - "[[/_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]"
+  - "[[/_Standards/WikiData/WD~Australia,408|WD~Australia,408]]"
+  - "[[/_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]"
+  - "[[/_Standards/WikiData/WD~Mongolia,711|WD~Mongolia,711]]"
+  - "[[/_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
+  - "[[/_Standards/WikiData/WD~Syria,858|WD~Syria,858]]"
+  - "[[/_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
+  - "[[/_Standards/WikiData/WD~Vietnam,881|WD~Vietnam,881]]"
+  - "[[/_Standards/WikiData/WD~South_Korea,884|WD~South_Korea,884]]"
+  - "[[/_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]"
+  - "[[/_Standards/WikiData/WD~Sudan,1049|WD~Sudan,1049]]"
+  - "[[/_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]"
+  - "[[/_Standards/WikiData/WD~Canada,16|WD~Canada,16]]"
+  - "[[/_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]"
+  - "[[/_Standards/WikiData/WD~Spain,29|WD~Spain,29]]"
+  - "[[/_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]"
+  - "[[/_Standards/WikiData/WD~Italy,38|WD~Italy,38]]"
+  - "[[/_Standards/WikiData/WD~Poland,36|WD~Poland,36]]"
+  - "[[/_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]"
+  - "[[/_Standards/WikiData/WD~Greece,41|WD~Greece,41]]"
+  - "[[/_Standards/WikiData/WD~Portugal,45|WD~Portugal,45]]"
+  - "[[/_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]"
+  - "[[/_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]"
+  - "[[/_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]"
+  - "[[/_Standards/WikiData/WD~France,142|WD~France,142]]"
+  - "[[/_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]"
+  - "[[/_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[/_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
+  - "[[/_Standards/WikiData/WD~Germany,183|WD~Germany,183]]"
+  - "[[/_Standards/WikiData/WD~Estonia,191|WD~Estonia,191]]"
+  - "[[/_Standards/WikiData/WD~Latvia,211|WD~Latvia,211]]"
+  - "[[/_Standards/WikiData/WD~Slovakia,214|WD~Slovakia,214]]"
+  - "[[/_Standards/WikiData/WD~Slovenia,215|WD~Slovenia,215]]"
+  - "[[/_Standards/WikiData/WD~Ukraine,212|WD~Ukraine,212]]"
+  - "[[/_Standards/WikiData/WD~Czech_Republic,213|WD~Czech_Republic,213]]"
+  - "[[/_Standards/WikiData/WD~Romania,218|WD~Romania,218]]"
+  - "[[/_Standards/WikiData/WD~North_Macedonia,221|WD~North_Macedonia,221]]"
+  - "[[/_Standards/WikiData/WD~Croatia,224|WD~Croatia,224]]"
+  - "[[/_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]"
+  - "[[/_Standards/WikiData/WD~Cyprus,229|WD~Cyprus,229]]"
+  - "[[/_Standards/WikiData/WD~Montenegro,236|WD~Montenegro,236]]"
+  - "[[/_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
+draft: false
+driving_side: "[[/_Standards/WikiData/WD~right,14565199|WD~right,14565199]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Bulgaria,1902334|WD~economy_of_Bulgaria,1902334]]"
+electrical_plug_type:
+  - "[[/_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]"
+  - "[[/_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]"
+executive_body: "[[/_Standards/WikiData/WD~Government_of_Bulgaria,105408016|WD~Government_of_Bulgaria,105408016]]"
+expiryDate: ""
+female_population:
+  - 3329964
+  - 3542329
+  - 3570641
+  - 3592085
+FIPS_10_4_countries_and_regions_: BU
+flag: "[[/_Standards/WikiData/WD~flag_of_Bulgaria,225360|WD~flag_of_Bulgaria,225360]]"
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bulgaria.svg
+geography_of_topic: "[[/_Standards/WikiData/WD~geography_of_Bulgaria,695835|WD~geography_of_Bulgaria,695835]]"
+geoshape: http://commons.wikimedia.org/data/main/Data:Bulgaria.map
+Gini_coefficient: 40.3
+GitHub_topic: bulgaria
+GOST_7_67_cyrillic: БОГ
+GS1_country_code: 380
+Happy_Planet_Index_score: 40.1
+hashtag: Bulgaria
+has_cabinet: "[[/_Standards/WikiData/WD~Council_of_Ministers_of_Bulgaria,2396053|WD~Council_of_Ministers_of_Bulgaria,2396053]]"
+has_characteristic: "[[/_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]"
+has_time_started: 1878-07-13
+head_of_government: "[[/_Standards/WikiData/WD~Rosen_Zhelyazkov,59978016|WD~Rosen_Zhelyazkov,59978016]]"
+head_of_state: "[[/_Standards/WikiData/WD~Rumen_Radev,26257557|WD~Rumen_Radev,26257557]]"
+highest_point: "[[/_Standards/WikiData/WD~Musala,209341|WD~Musala,209341]]"
+history_of_topic: "[[/_Standards/WikiData/WD~history_of_Bulgaria,7800|WD~history_of_Bulgaria,7800]]"
+Human_Development_Index: 0.795
+IAB_code: 1263
+icon: flag-bg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Rila%20Monastery%2C%20August%202013.jpg
+inception: 1878-07-13
+Inequality_adjusted_Human_Development_Index: 0.701
+INSEE_countries_and_foreign_territories_code: 99111
+instance_of:
+  - "[[/_Standards/WikiData/WD~unitary_state,179164|WD~unitary_state,179164]]"
+  - "[[/_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]"
+  - "[[/_Standards/WikiData/WD~country,6256|WD~country,6256]]"
+IOC_country_code: BUL
+IPA_transcription: bɐlˈɡarʲɪjə
+isDeleted: false
+ISNI:
+  - 123254108
+  - 404116342
+ISO_3166_1_alpha_2_code: BG
+ISO_3166_1_alpha_3_code: BGR
+ISO_3166_1_numeric_code: 100
+isReadOnly: false
+ITU_letter_code: BUL
+keywords: ""
+Krugosvet_article: strany_mira/BOLGARIYA.html
+Languages:
+  - bg
+  - tr-BG
+  - rom
+language_used:
+  - "[[/_Standards/WikiData/WD~Bulgarian_Sign_Language,3438325|WD~Bulgarian_Sign_Language,3438325]]"
+  - "[[/_Standards/WikiData/WD~Turkish,256|WD~Turkish,256]]"
+  - "[[/_Standards/WikiData/WD~Bulgarian,7918|WD~Bulgarian,7918]]"
+  - "[[/_Standards/WikiData/WD~Romani,13201|WD~Romani,13201]]"
+layout: ""
+legislative_body: "[[/_Standards/WikiData/WD~National_Assembly_of_Bulgaria,639704|WD~National_Assembly_of_Bulgaria,639704]]"
+Libris_URI: xv8b9p1g14q9h82
+licence_plate_code: BG
+license: CC BY-SA 4.0
+life_expectancy: 74
+linkTitle: ""
+literacy_rate: 98
+located_in_on_physical_feature: "[[/_Standards/WikiData/WD~Balkans,23522|WD~Balkans,23522]]"
+located_in_or_next_to_body_of_water: "[[/_Standards/WikiData/WD~Black_Sea,166|WD~Black_Sea,166]]"
+located_in_time_zone: "[[/_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]"
+location:
+  - 42.9342
+  - 25.3029
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bulgaria%20%28orthographic%20projection%29.svg
+lowest_point: "[[/_Standards/WikiData/WD~Black_Sea,166|WD~Black_Sea,166]]"
+M49_code: 100
+mains_voltage: 230
+maintained_by_WikiProject: "[[/_Standards/WikiData/WD~WikiProject_Bulgaria,11510311|WD~WikiProject_Bulgaria,11510311]]"
+male_population:
+  - 3135133
+  - 3335414
+  - 3363373
+  - 3383675
+maritime_identification_digits: 207
+marriageable_age: 18
+maximum_temperature_record: 45.2
+member_of:
+  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
+  - "[[/_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]"
+  - "[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]"
+  - "[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[/_Standards/WikiData/WD~COMECON,191582|WD~COMECON,191582]]"
+  - "[[/_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]"
+  - "[[/_Standards/WikiData/WD~Organization_of_the_Black_Sea_Economic_Cooperation,380340|WD~Organization_of_the_Black_Sea_Economic_Cooperation,380340]]"
+  - "[[/_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496|WD~International_Centre_for_Migration_Policy_Development,498496]]"
+  - "[[/_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]"
+  - "[[/_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]"
+  - "[[/_Standards/WikiData/WD~Eurocontrol,663492|WD~Eurocontrol,663492]]"
+  - "[[/_Standards/WikiData/WD~Australia_Group,782942|WD~Australia_Group,782942]]"
+  - "[[/_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428|WD~International_Holocaust_Remembrance_Alliance,823428]]"
+  - "[[/_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[/_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+  - "[[/_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[/_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120|WD~Missile_Technology_Control_Regime,1072120]]"
+  - "[[/_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793|WD~Nuclear_Suppliers_Group,1480793]]"
+  - "[[/_Standards/WikiData/WD~Strategic_Airlift_Capability,1579424|WD~Strategic_Airlift_Capability,1579424]]"
+  - "[[/_Standards/WikiData/WD~Schengen_Area,1969730|WD~Schengen_Area,1969730]]"
+  - "[[/_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537|WD~Movement_Coordination_Centre_Europe,3866537]]"
+  - "[[/_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]"
+  - "[[/_Standards/WikiData/WD~Q131720477,131720477|WD~Q131720477,131720477]]"
+  - "[[/_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]"
+  - "[[/_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]"
+  - "[[/_Standards/WikiData/WD~NATO,7184|WD~NATO,7184]]"
+  - "[[/_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]"
+  - "[[/_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]"
+  - "[[/_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]"
+  - "[[/_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]"
+  - "[[/_Standards/WikiData/WD~Council_of_Europe,8908|WD~Council_of_Europe,8908]]"
+  - "[[/_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]"
+  - "[[/_Standards/WikiData/WD~Warsaw_Pact,41644|WD~Warsaw_Pact,41644]]"
+MeSH_tree_code: Z01.542.248.180
+mobile_country_code: 284
+motto: "[[/_Standards/WikiData/WD~Unity_makes_strength,1308013|WD~Unity_makes_strength,1308013]]"
+motto_text:
+  - A discovery to share
+  - Darganfyddiad i'w rannu
+named_after: "[[/_Standards/WikiData/WD~Bulgars,110117|WD~Bulgars,110117]]"
+native_label: България
+nominal_GDP: 89040398406
+number_of_out_of_school_children: 66616
+NUTS_code: BG
+office_held_by_head_of_government: "[[/_Standards/WikiData/WD~Prime_Minister_of_Bulgaria,4404583|WD~Prime_Minister_of_Bulgaria,4404583]]"
+office_held_by_head_of_state: "[[/_Standards/WikiData/WD~President_of_Bulgaria,14946265|WD~President_of_Bulgaria,14946265]]"
+official_language: "[[/_Standards/WikiData/WD~Bulgarian,7918|WD~Bulgarian,7918]]"
+official_name:
+  - Царство България
+  - Република България
+  - República de Bulgària
+  - Bulharská republika
+  - Republic of Bulgaria
+  - la République de Bulgarie
+  - Republica Bulgaria
+  - Republiken Bulgarien
+  - Княжество България
+  - Народна република България
+official_observer_status_in_organisation: "[[/_Standards/WikiData/WD~European_Space_Agency,42262|WD~European_Space_Agency,42262]]"
+official_symbol: "[[/_Standards/WikiData/WD~lion,140|WD~lion,140]]"
+official_website: http://www.government.bg/
+OmegaWiki_Defined_Meaning: 160307
+open_data_portal: "[[/_Standards/WikiData/WD~Bulgarien_Data_portal,97012366|WD~Bulgarien_Data_portal,97012366]]"
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Beklemeto%20Pass%20banner.jpg
+part_of:
+  - "[[/_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]"
+  - "[[/_Standards/WikiData/WD~European_Economic_Area,8932|WD~European_Economic_Area,8932]]"
+  - "[[/_Standards/WikiData/WD~Eastern_Europe,27468|WD~Eastern_Europe,27468]]"
+permanent_duplicated_item: "[[/_Standards/WikiData/WD~Q23653968,23653968|WD~Q23653968,23653968]]"
+PM20_geo_code: A46
+population: 6795803
+pronunciation_audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/It-Bulgaria.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Bulgarien.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Bulgaria.wav
+publish: true
+publishDate: ""
+railway_traffic_side: "[[/_Standards/WikiData/WD~right,14565199|WD~right,14565199]]"
+replaces: "[[/_Standards/WikiData/WD~People's_Republic_of_Bulgaria,121932|WD~People's_Republic_of_Bulgaria,121932]]"
+rural_population:
+  - 1528155
+  - 1648939
+  - 1685936
+  - 1719734
+shares_border_with:
+  - "[[/_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]"
+  - "[[/_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]"
+  - "[[/_Standards/WikiData/WD~Greece,41|WD~Greece,41]]"
+  - "[[/_Standards/WikiData/WD~Black_Sea,166|WD~Black_Sea,166]]"
+  - "[[/_Standards/WikiData/WD~Romania,218|WD~Romania,218]]"
+  - "[[/_Standards/WikiData/WD~North_Macedonia,221|WD~North_Macedonia,221]]"
+short_name: 🇧🇬
+social_media_followers: 149701
+source: https://datahub.io/core/country-codes
+subreddit: bulgaria
+suicide_rate: 6.5
+tags:
+  - geo/Country
+title: Bulgaria
+topic_s_main_template: "[[/_Standards/WikiData/WD~Template_Provinces_of_Bulgaria,5981641|WD~Template_Provinces_of_Bulgaria,5981641]]"
+topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Portal_Bulgaria,8133376|WD~Portal_Bulgaria,8133376]]"
+top_level_Internet_domain:
+  - "[[/_Standards/WikiData/WD~.бг,140775|WD~.бг,140775]]"
+  - "[[/_Standards/WikiData/WD~.bg,39029|WD~.bg,39029]]"
+total_fertility_rate: 1.58
+trunk_prefix: 0
+twinned_administrative_body: "[[/_Standards/WikiData/WD~Toyoake,817280|WD~Toyoake,817280]]"
+type: Country
+UIC_alphabetical_country_code: BG
+UIC_numerical_country_code: 52
+UMLS_CUI: C0006368
+unemployment_rate: 4.1
+Unicode_character: 🇧🇬
+urban_population:
+  - 4936942
+  - 5228804
+  - 5248079
+  - 5256027
+U_S_National_Archives_Identifier: 10045352
+VAT_rate:
+  - 20
+  - 9
+Wikimedia_outline: "[[/_Standards/WikiData/WD~outline_of_Bulgaria,7112213|WD~outline_of_Bulgaria,7112213]]"
+WIPO_ST_3: BG
 ---
 
+# [[Bulgaria]] 🇧🇬 
 
-ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
-ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
-ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
-ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
-ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
+## #has_/properties 
 
-Telephone = `=this.dv_Telephone` 
 
-Global = `=this.dv_Global` 
-Global_Name = `=this.dv_Global_Name` 
+has_number_of_people = `=this.dv_has_number_of_people`
+Population = `=this.dv_Population`
 
-name = `=this.dv_has_name` 
-[	has_name_en	 :: Bulgaria ] 
-has_name_es = `=this.dv_has_name_es` 
-has_name_fr = `=this.dv_has_name_fr` 
-has_name_cn = `=this.dv_has_name_cn` 
-has_name_ar = `=this.dv_has_name_ar` 
-has_name_ru = `=this.dv_has_name_ru` 
+#has_/population_/density :: `=this.population/this.area`
 
-CLDR_display_name = `=this.dv_CLDR_display_name` 
+has_capital = `=this.dv_has_capital`
 
-UNTERM_English = `=this.dv_UNTERM_English` 
-UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
-UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
-UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
-UNTERM_French = `=this.dv_UNTERM_French` 
-UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
-UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
-UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
-UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
-UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
-UNTERM_Russian = `=this.dv_UNTERM_Russian` 
-UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric`
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit`
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name`
+
+Telephone = `=this.dv_Telephone`
+
+Global = `=this.dv_Global`
+Global_Name = `=this.dv_Global_Name`
+
+name = `=this.dv_has_name`
+[	has_name_en	 :: Bulgaria ]
+has_name_es = `=this.dv_has_name_es`
+has_name_fr = `=this.dv_has_name_fr`
+has_name_cn = `=this.dv_has_name_cn`
+has_name_ar = `=this.dv_has_name_ar`
+has_name_ru = `=this.dv_has_name_ru`
+
+CLDR_display_name = `=this.dv_CLDR_display_name`
+
+UNTERM_English = `=this.dv_UNTERM_English`
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal`
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal`
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish`
+UNTERM_French = `=this.dv_UNTERM_French`
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic`
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal`
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese`
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal`
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal`
+UNTERM_Russian = `=this.dv_UNTERM_Russian`
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal`
 
 Region_Name = `=this.dv_Region_Name`
 Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
 Sub-region_Name = `=this.dv_Sub-region_Name`
 
-Region = `=this.dv_Region` 
+Region = `=this.dv_Region`
 [	Intermediate_Region = `=this.dv_Region`
-Sub-region = `=this.dv_Sub-region` 
+Sub-region = `=this.dv_Sub-region`
 
-Geoname-ID = `=this.dv_Geoname-ID` 
-FIPS = `=this.dv_FIPS` 
-FIFA = `=this.dv_FIFA` 
-IOC = `=this.dv_IOC` 
-MARC = `=this.dv_MARC` 
-GAUL = `=this.dv_GAUL` 
-WMO = `=this.dv_WMO` 
-ITU = `=this.dv_ITU` 
-DS = `=this.dv_DS` 
-TLD = `=this.dv_TLD` 
-EDGAR = `=this.dv_EDGAR` 
-M49 = `=this.dv_M49` 
+Geoname-ID = `=this.dv_Geoname-ID`
+FIPS = `=this.dv_FIPS`
+FIFA = `=this.dv_FIFA`
+IOC = `=this.dv_IOC`
+MARC = `=this.dv_MARC`
+GAUL = `=this.dv_GAUL`
+WMO = `=this.dv_WMO`
+ITU = `=this.dv_ITU`
+DS = `=this.dv_DS`
+TLD = `=this.dv_TLD`
+EDGAR = `=this.dv_EDGAR`
+M49 = `=this.dv_M49`
 
-is_independent = `=this.dv_is_independent` 
-developed_developing_countries = `=this.dv_developed_developing_countries` 
-[	Land_Locked_Developing_Countries	 ::  ] 
-[	Least_Developed_Countries	 ::  ] 
-[	Small_is_a_ = `=this.dv_is_a_`
+is_independent = `=this.dv_is_independent`
+developed_developing_countries = `=this.dv_developed_developing_countries`
+[	Land_Locked_Developing_Countries	 ::  ]
+[	Least_Developed_Countries	 ::  ]
+[	Small_is_a = `=this.dv_is_a_`
 
 ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
-
-
 
 SpocWebEntityId: 26846
 isDeleted: false
 confidential: public
-ISO2 = `=this.dv_ISO2` 
+ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
+
+is_a = `=this.dv_is_a_`
+
+For more Details, check out this Repository into this Subfolder: 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
+
+[[Bulgaria/ReadMe|ReadMe]] 
+
+## #has_/map  
+
 ```leaflet
 id: Bulgaria
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: .//
-markerFolder: .//
+geojsonFolder: ./Bulgaria//
+markerFolder: ./Bulgaria//
+coordinates: [[Bulgaria]] 
+markerFile: [[Bulgaria]] 
+defaultZoom: 5 
 ```
 
-[has_name_en::Bulgaria] 
-has_name_de = `=this.dv_has_name_de` 
-Area-Total = `=this.dv_Area-Total` 
-Area-Land = `=this.dv_Area-Land` 
-Continent = `=this.dv_Continent`
-VehicleCode = `=this.dv_VehicleCode` 
+
+### #has_map_/topologic 
+
+```leaflet
+id: Bulgaria_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 5
+geojsonFolder: ./Bulgaria//
+markerFolder: ./Bulgaria/
+coordinates: [[Bulgaria]] 
+markerFile: [[Bulgaria]] 
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+
+[has_name_en::Bulgaria]
+has_name_de = `=this.dv_has_name_de`
+Area-Total = `=this.dv_Area-Total`
+Area-Land = `=this.dv_Area-Land`
+has_place_continent = `=this.dv_has_place_continent`
+VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
-![[Coat_of_arms_of_Bulgaria.svg|350]] 
-![[Anthem-Bulgaria-complete.mp3]] 
-![[Flag_of_Bulgaria.svg|350]] 
-Alcohol-l = `=this.dv_Alcohol-l` 
-[Language-Id::] 
-#is_a_/Place  
-is_a_ = `=this.dv_is_a_`
-has_place_longitude = `=this.dv_has_place_longitude` 
-has_place_latitude = `=this.dv_has_place_latitude` 
+![[Coat_of_arms_of_Bulgaria.svg|350]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Bulgaria-complete.mp3|Anthem-Bulgaria-complete.mp3]]
+![[Flag_of_Bulgaria.svg|350]]
+Alcohol-l = `=this.dv_Alcohol-l`
+[Language-Id::]
+
+
+
+ is_a = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude`
+has_place_latitude = `=this.dv_has_place_latitude`
+
+
+## #has_/text_of_/abstract 
+
+> **Bulgaria**, officially the Republic of Bulgaria, is a country in Southeast Europe. 
+> It is situated on the eastern portion of the Balkans directly south of the Danube river 
+> and west of the Black Sea. 
+> 
+> Bulgaria is bordered by Greece and Turkey to the south, 
+> Serbia and North Macedonia to the west, and Romania to the north. 
+> It covers a territory of 110,994 square kilometres (42,855 sq mi) 
+> and is the sixteenth-largest country in Europe. 
+> Sofia is the nation's capital and largest city; other major cities include Burgas, Plovdiv, and Varna.
+>
+> One of the earliest societies in the lands of modern-day Bulgaria 
+> was the Karanovo culture (6,500 BC). 
+> In the 6th to 3rd century BC, 
+> the region was a battleground for ancient Thracians, Persians, Celts and Macedonians; 
+> stability came when the [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395|Roman Empire]] conquered the region in AD 45. 
+> 
+> After the Roman state splintered, tribal invasions in the region resumed. 
+> Around the 6th century, these territories were settled by the early Slavs. 
+> The Bulgars, led by Asparuh, attacked from the lands of Old Great Bulgaria 
+> and permanently invaded the Balkans in the late 7th century. 
+> 
+> They established the First Bulgarian Empire, 
+> victoriously recognised by treaty in 681 AD by the [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0300/0395-Byzantine_Empire|Byzantine Empire]]]. 
+> It dominated most of the Balkans 
+> and significantly influenced Slavic cultures by developing the Cyrillic script. 
+> 
+> The First Bulgarian Empire lasted until the early 11th century, 
+> when Byzantine emperor Basil II conquered and dismantled it. 
+> A successful Bulgarian revolt in 1185 established a Second Bulgarian Empire, 
+> which reached its apex under Ivan Asen II (1218–1241). 
+> After numerous exhausting wars and feudal strife, 
+> the empire disintegrated and in 1396 fell under Ottoman rule for nearly five centuries.
+>
+> The Russo-Turkish War of 1877–78 resulted in the formation of the third and current Bulgarian state, 
+> which declared independence from the [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire-1922|Ottoman Empire]] in 1908. 
+> Many ethnic Bulgarians were left outside the new nation's borders, 
+> which stoked irredentist sentiments that led to several conflicts with its neighbours 
+> and alliances with Germany in both world wars. 
+> In 1946, Bulgaria came under the Soviet-led Eastern Bloc and became a socialist state. 
+> The ruling Communist Party gave up its monopoly on power after the revolutions of 1989 
+> and allowed multiparty elections. Bulgaria then transitioned into a democracy.
+>
+> Since adopting a democratic constitution in 1991, 
+> Bulgaria has been a unitary parliamentary republic composed of 28 provinces, 
+> with a high degree of political, administrative, and economic centralisation. 
+> 
+> Bulgaria has a high-income economy 
+> with a market economy that is part of the European Single Market and is largely based on services, 
+> followed by manufacturing and mining—and agriculture. 
+> 
+> The country has been influenced by its role as a transit country for natural gas and oil pipelines, 
+> as well as its strategic location on the Black Sea. 
+> Bulgaria's foreign relations have been shaped by its geographical location 
+> and its modern membership in the [[../EU(European_Union)|European Union]] and [[../../../../Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO|NATO]].
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Bulgaria) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria/ReadMe|ReadMe]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Bulgaria|Bulgaria]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Bulgaria/ReadMe.public|ReadMe.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Bulgaria.public|Bulgaria.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria/ReadMe.internal|ReadMe.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Bulgaria.internal|Bulgaria.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria/ReadMe.protect|ReadMe.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Bulgaria.protect|Bulgaria.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Bulgaria/ReadMe.private|ReadMe.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Bulgaria.private|Bulgaria.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria/ReadMe.personal|ReadMe.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Bulgaria.personal|Bulgaria.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria/ReadMe.secret|ReadMe.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Bulgaria.secret|Bulgaria.secret]] 
 
